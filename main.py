@@ -714,31 +714,39 @@ class PhigrosPlugin(Star):
                     # 使用绝对路径
                     abs_path = qr_path.resolve()
                     logger.info(f"🔍 绝对路径: {abs_path}")
-                    yield event.chain_result([Image(file=str(abs_path))])
-                    logger.info("🔍 图片发送完成")
+                    
+                    # 方法1: 使用 file 参数
+                    try:
+                        yield event.chain_result([Image(file=str(abs_path))])
+                        logger.info("🔍 方法1 (file) 发送成功")
+                    except Exception as e1:
+                        logger.warning(f"🔍 方法1失败: {e1}")
+                        # 方法2: 使用 path 参数
+                        try:
+                            yield event.chain_result([Image(path=str(abs_path))])
+                            logger.info("🔍 方法2 (path) 发送成功")
+                        except Exception as e2:
+                            logger.warning(f"🔍 方法2失败: {e2}")
+                            # 方法3: 使用 base64
+                            import base64
+                            with open(abs_path, 'rb') as f:
+                                img_base64 = base64.b64encode(f.read()).decode()
+                            yield event.chain_result([Image.fromBase64(img_base64)])
+                            logger.info("🔍 方法3 (base64) 发送成功")
                     
                     # 再发送剩余文字
                     yield event.plain_result("⏰ 二维码有效期 2 分钟，请在手机上确认登录...\n⏳ 等待扫码中...")
                 except Exception as e:
-                    logger.error(f"🔍 发送二维码图片失败: {e}")
+                    logger.error(f"🔍 所有发送方式都失败: {e}")
                     import traceback
                     logger.error(f"🔍 异常详情: {traceback.format_exc()}")
-                    # 如果文件方式失败，尝试使用 base64
-                    try:
-                        import base64
-                        with open(qr_path, 'rb') as f:
-                            img_base64 = base64.b64encode(f.read()).decode()
-                        yield event.chain_result([Image.fromBase64(img_base64)])
-                        yield event.plain_result("⏰ 二维码有效期 2 分钟，请在手机上确认登录...\n⏳ 等待扫码中...")
-                    except Exception as e2:
-                        logger.error(f"🔍 Base64 方式也失败: {e2}")
-                        # 最后回退：只发送链接
-                        yield event.plain_result(
-                            f"📱 请使用 TapTap APP 扫描登录\n"
-                            f"💡 如果看不到二维码，请访问:\n"
-                            f"https://lilith.xtower.site/\n"
-                            f"⏰ 二维码有效期 2 分钟"
-                        )
+                    # 最后回退：只发送链接
+                    yield event.plain_result(
+                        f"📱 请使用 TapTap APP 扫描登录\n"
+                        f"💡 如果看不到二维码，请访问:\n"
+                        f"https://lilith.xtower.site/\n"
+                        f"⏰ 二维码有效期 2 分钟"
+                    )
             else:
                 logger.error(f"🔍 二维码文件不存在: {qr_path}")
                 yield event.plain_result("❌ 二维码文件未生成，请检查日志")
