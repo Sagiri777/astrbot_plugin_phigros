@@ -120,9 +120,24 @@ class TapTapLoginManagerAPI:
                 logger.info(f"二维码生成成功，qrId: {self._qr_id}")
                 logger.info(f"验证链接: {verification_url}")
 
-                # 使用 verificationUrl 生成二维码图片（更可靠）
-                use_qrcode_lib = QRCODE_AVAILABLE
-                if use_qrcode_lib and verification_url:
+                # 强制导入 qrcode 库
+                try:
+                    import sys
+                    import os
+                    # 添加系统 Python 路径（仅 Linux）
+                    if os.name != 'nt':  # 非 Windows 系统
+                        sys.path.insert(0, '/usr/lib/python3/dist-packages')
+                        sys.path.insert(0, '/usr/lib/python3.12/dist-packages')
+                    import qrcode
+                    from PIL import Image as PILImage
+                    logger.info("✅ 成功导入 qrcode 和 PIL")
+                except ImportError as e:
+                    logger.error(f"❌ 导入 qrcode 失败: {e}")
+                    logger.error(f"Python 路径: {sys.path}")
+                    raise Exception(f"qrcode 库导入失败: {e}")
+
+                # 使用 verificationUrl 生成二维码图片（PNG格式）
+                if verification_url:
                     logger.info("使用 qrcode 库生成二维码图片")
                     try:
                         qr = qrcode.QRCode(
@@ -134,37 +149,18 @@ class TapTapLoginManagerAPI:
                         qr.add_data(verification_url)
                         qr.make(fit=True)
                         
-                        # 生成图片
+                        # 生成 PNG 图片
                         img = qr.make_image(fill_color="black", back_color="white")
                         # 确保目录存在
                         self.qr_code_path.parent.mkdir(parents=True, exist_ok=True)
-                        img.save(self.qr_code_path)
-                        logger.info(f"二维码已保存到: {self.qr_code_path}")
+                        img.save(self.qr_code_path, 'PNG')
+                        logger.info(f"✅ 二维码已保存到: {self.qr_code_path}")
+                        logger.info(f"✅ 文件格式: PNG")
                     except Exception as e:
-                        logger.error(f"使用 qrcode 库生成失败: {e}，回退到 base64 方式")
-                        use_qrcode_lib = False
-                
-                if not use_qrcode_lib or not verification_url:
-                    # 回退：使用 API 返回的 base64 数据
-                    logger.info("使用 API 返回的 base64 数据")
-                    
-                    # 处理 Base64 数据（移除可能的 data URI 前缀）
-                    if ',' in qrcode_base64:
-                        qrcode_base64 = qrcode_base64.split(',')[1]
-                    
-                    # 修复 Base64 填充
-                    padding_needed = 4 - len(qrcode_base64) % 4
-                    if padding_needed != 4:
-                        qrcode_base64 += '=' * padding_needed
-                    
-                    # 保存二维码图片
-                    qr_data = base64.b64decode(qrcode_base64)
-                    # 确保目录存在
-                    self.qr_code_path.parent.mkdir(parents=True, exist_ok=True)
-                    with open(self.qr_code_path, 'wb') as f:
-                        f.write(qr_data)
-                    logger.info(f"二维码已保存到: {self.qr_code_path}")
-                    logger.info(f"🔍 文件大小: {self.qr_code_path.stat().st_size} bytes")
+                        logger.error(f"❌ 使用 qrcode 库生成失败: {e}")
+                        raise Exception(f"二维码生成失败: {e}")
+                else:
+                    raise Exception("verification_url 为空")
 
                 self._current_status = LoginStatus.QR_READY
                 logger.info(f"✅ 二维码生成完成，准备返回")

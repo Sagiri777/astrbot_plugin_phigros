@@ -240,10 +240,12 @@ class PhigrosPlugin(Star):
         self.api_token: Optional[str] = None
         self.renderer: Optional[PhigrosRenderer] = None
 
-        # 使用 StarTools 获取插件数据目录
-        self.data_dir: Path = StarTools.get_data_dir("astrbot_plugin_phigros")
+        # 使用插件目录作为数据目录（避免路径问题）
+        self.data_dir: Path = Path(__file__).parent
         self.output_dir = self.data_dir / "output"
         self.output_dir.mkdir(parents=True, exist_ok=True)
+        logger.info(f"📁 插件数据目录: {self.data_dir}")
+        logger.info(f"📁 输出目录: {self.output_dir}")
 
         # 初始化用户数据管理器
         self.user_data = UserDataManager(self.data_dir)
@@ -695,31 +697,71 @@ class PhigrosPlugin(Star):
                 )
                 return
 
-            # 发送二维码（使用与 b30 相同的逻辑）
+            # 发送二维码图片和登录提示
             qr_path = self.output_dir / "taptap_qr.png"
-            logger.info(f"🔍 检查二维码文件: {qr_path}")
-            
+            logger.info(f"🔍 准备发送二维码，路径: {qr_path}")
+            logger.info(f"🔍 二维码文件是否存在: {qr_path.exists()}")
+
             if qr_path.exists():
+                file_size = qr_path.stat().st_size
+                logger.info(f"🔍 二维码文件大小: {file_size} bytes")
+                
                 try:
-                    # 使用与 b30 相同的逻辑：文字和图片一起发送
+                    # 方法1: 使用 fromFileSystem (推荐，跨平台兼容性好)
+                    from astrbot.api.message_components import Image
+                    abs_path = qr_path.resolve()
+                    logger.info(f"🔍 二维码绝对路径: {abs_path}")
+
                     yield event.chain_result([
-                        Plain("� 请使用 TapTap APP 扫描下方二维码登录:\n"),
-                        Image(file=str(qr_path)),
-                        Plain("⏰ 二维码有效期 2 分钟，请在手机上确认登录...\n⏳ 等待扫码中...")
+                        Plain("📱 请使用 TapTap APP 扫描二维码登录\n"),
+                        Image.fromFileSystem(str(abs_path)),
+                        Plain("\n🌐 或访问链接: https://lilith.xtower.site/\n"
+                              "⏰ 二维码有效期 2 分钟\n"
+                              "⏳ 等待扫码中...")
                     ])
-                    logger.info("🔍 二维码发送成功")
-                except Exception as e:
-                    logger.error(f"🔍 发送二维码失败: {e}")
-                    # 回退：只发送链接
-                    yield event.plain_result(
-                        f"📱 请使用 TapTap APP 扫描登录\n"
-                        f"💡 访问链接: https://lilith.xtower.site/\n"
-                        f"⏰ 二维码有效期 2 分钟"
-                    )
+                    logger.info("✅ 二维码图片发送成功")
+                except Exception as e1:
+                    logger.warning(f"方法1发送二维码失败: {e1}")
+                    logger.warning(f"错误类型: {type(e1).__name__}")
+                    import traceback
+                    logger.warning(f"错误堆栈: {traceback.format_exc()}")
+                    
+                    try:
+                        # 方法2: 使用 base64 发送
+                        import base64
+                        with open(qr_path, 'rb') as f:
+                            img_base64 = base64.b64encode(f.read()).decode()
+                        logger.info(f"🔍 Base64 编码长度: {len(img_base64)}")
+                        
+                        yield event.chain_result([
+                            Plain("📱 请使用 TapTap APP 扫描二维码登录\n"),
+                            Image.fromBase64(img_base64),
+                            Plain("\n🌐 或访问链接: https://lilith.xtower.site/\n"
+                                  "⏰ 二维码有效期 2 分钟\n"
+                                  "⏳ 等待扫码中...")
+                        ])
+                        logger.info("✅ 二维码图片(base64)发送成功")
+                    except Exception as e2:
+                        logger.error(f"方法2发送二维码也失败: {e2}")
+                        logger.error(f"错误类型: {type(e2).__name__}")
+                        import traceback
+                        logger.error(f"错误堆栈: {traceback.format_exc()}")
+                        
+                        # 方法3: 只发送文字提示
+                        yield event.plain_result(
+                            f"📱 请使用 TapTap APP 扫描二维码登录\n"
+                            f"🌐 访问链接: https://lilith.xtower.site/\n"
+                            f"⏰ 二维码有效期 2 分钟\n"
+                            f"⏳ 等待扫码中..."
+                        )
             else:
-                logger.error(f"🔍 二维码文件不存在: {qr_path}")
-                yield event.plain_result("❌ 二维码文件未生成，请检查日志")
-                return
+                logger.error(f"二维码文件不存在: {qr_path}")
+                yield event.plain_result(
+                    f"📱 请使用 TapTap APP 扫描二维码登录\n"
+                    f"🌐 访问链接: https://lilith.xtower.site/\n"
+                    f"⏰ 二维码有效期 2 分钟\n"
+                    f"⏳ 等待扫码中..."
+                )
 
             # 等待扫码
             logger.info("开始等待用户扫码...")

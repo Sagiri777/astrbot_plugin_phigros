@@ -26,7 +26,23 @@
 
 ## 📦 怎么装上我？
 
+### ✅ 跨平台支持
+
+**不管你是 Windows 党、Ubuntu 党还是 macOS 党，我都能陪你玩！** 🎉
+
+| 系统 | 支持状态 | 安装方式 |
+|------|---------|---------|
+| 🪟 **Windows** | ✅ 完美支持 | 方法一 |
+| 🐧 **Ubuntu/Linux** | ✅ 完美支持 | 方法二 |
+| 🍎 **macOS** | ✅ 支持 | 方法一 |
+
+> 💡 **小提示**：不管你用啥系统，扫码登录功能都能正常使用啦！二维码再也不会迷路了~ 🥳
+
+---
+
 ### 方法一：懒人一键装（推荐⭐）
+
+**适用于：Windows / macOS / Linux**
 
 ```bash
 cd astrbot_plugin_phigros
@@ -34,7 +50,50 @@ python install.py
 ```
 然后躺平等安装完成就行啦~ 😎
 
-### 方法二：手动折腾装
+### 方法二：Ubuntu/Linux 安装（推荐⭐）
+
+专为 Ubuntu/Linux 系统优化的安装方式：
+
+```bash
+cd astrbot_plugin_phigros
+
+# 方式1：使用安装脚本（推荐）
+chmod +x install.sh
+./install.sh
+
+# 方式2：不使用虚拟环境（如果方式1遇到问题）
+./install.sh --no-venv
+```
+
+**脚本会自动完成：**
+- ✅ 创建 Python 虚拟环境（隔离依赖）
+- ✅ 安装系统依赖（Pillow 所需的图像库）
+- ✅ 安装 Python 依赖
+- ✅ 创建必要的目录
+- ✅ 检查中文字体
+- ✅ 设置文件权限
+
+**安装后管理：**
+```bash
+# 检查环境
+./manage.sh check
+
+# 测试二维码功能
+./manage.sh test-qr
+
+# 更新依赖
+./manage.sh update
+
+# 清理缓存
+./manage.sh clean
+
+# 修复权限
+./manage.sh fix-permissions
+```
+
+---
+
+### 方法三：手动折腾装
 
 1. 先装依赖：
 ```bash
@@ -244,6 +303,8 @@ astrbot_plugin_phigros/
 - 🖼️ **背景图缓存** - 模糊处理好的背景图直接复用，不用每次都重新搞
 - ⚡ **数据提取优化** - 去掉繁琐的日志，代码跑得飞快~
 - 🐧 **跨平台优化** - Ubuntu、Debian、CentOS 都能愉快玩耍啦！
+- 📱 **二维码发送修复** - Ubuntu 系统现在可以正常发送二维码图片了
+- 📦 **Ubuntu 安装脚本** - 新增 `install.sh` 和 `manage.sh`，一键安装超方便！
 
 ### v1.8.0 - 发光大更新！✨
 
