@@ -695,56 +695,25 @@ class PhigrosPlugin(Star):
                 )
                 return
 
-            # 发送二维码
+            # 发送二维码（使用与 b30 相同的逻辑）
             qr_path = self.output_dir / "taptap_qr.png"
             logger.info(f"🔍 检查二维码文件: {qr_path}")
-            logger.info(f"🔍 文件存在: {qr_path.exists()}")
-            logger.info(f"🔍 目录内容: {list(self.output_dir.glob('*.png'))}")
             
             if qr_path.exists():
-                logger.info(f"🔍 文件大小: {qr_path.stat().st_size} bytes")
-                logger.info(f"🔍 文件权限: {oct(qr_path.stat().st_mode)}")
-                
-                # 先发送文字提示
-                yield event.plain_result("📱 请使用 TapTap APP 扫描下方二维码登录:")
-                
                 try:
-                    # 尝试发送图片（兼容不同平台）
-                    logger.info("🔍 尝试发送图片...")
-                    # 使用绝对路径
-                    abs_path = qr_path.resolve()
-                    logger.info(f"🔍 绝对路径: {abs_path}")
-                    
-                    # 方法1: 使用 file 参数
-                    try:
-                        yield event.chain_result([Image(file=str(abs_path))])
-                        logger.info("🔍 方法1 (file) 发送成功")
-                    except Exception as e1:
-                        logger.warning(f"🔍 方法1失败: {e1}")
-                        # 方法2: 使用 path 参数
-                        try:
-                            yield event.chain_result([Image(path=str(abs_path))])
-                            logger.info("🔍 方法2 (path) 发送成功")
-                        except Exception as e2:
-                            logger.warning(f"🔍 方法2失败: {e2}")
-                            # 方法3: 使用 base64
-                            import base64
-                            with open(abs_path, 'rb') as f:
-                                img_base64 = base64.b64encode(f.read()).decode()
-                            yield event.chain_result([Image.fromBase64(img_base64)])
-                            logger.info("🔍 方法3 (base64) 发送成功")
-                    
-                    # 再发送剩余文字
-                    yield event.plain_result("⏰ 二维码有效期 2 分钟，请在手机上确认登录...\n⏳ 等待扫码中...")
+                    # 使用与 b30 相同的逻辑：文字和图片一起发送
+                    yield event.chain_result([
+                        Plain("� 请使用 TapTap APP 扫描下方二维码登录:\n"),
+                        Image(file=str(qr_path)),
+                        Plain("⏰ 二维码有效期 2 分钟，请在手机上确认登录...\n⏳ 等待扫码中...")
+                    ])
+                    logger.info("🔍 二维码发送成功")
                 except Exception as e:
-                    logger.error(f"🔍 所有发送方式都失败: {e}")
-                    import traceback
-                    logger.error(f"🔍 异常详情: {traceback.format_exc()}")
-                    # 最后回退：只发送链接
+                    logger.error(f"🔍 发送二维码失败: {e}")
+                    # 回退：只发送链接
                     yield event.plain_result(
                         f"📱 请使用 TapTap APP 扫描登录\n"
-                        f"💡 如果看不到二维码，请访问:\n"
-                        f"https://lilith.xtower.site/\n"
+                        f"💡 访问链接: https://lilith.xtower.site/\n"
                         f"⏰ 二维码有效期 2 分钟"
                     )
             else:
