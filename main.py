@@ -1635,7 +1635,7 @@ class PhigrosPlugin(Star):
             yield event.plain_result(f"🎬 随机 Phigros 视频\n📹 {video_info['name']}\n📦 大小: {video_info['size_mb']}MB\n🎵 Enjoy the music! 🎶")
             
             # 使用 Video 组件发送视频文件
-            yield event.chain_result([Video(path=str(video_path))])
+            yield event.chain_result([Video(file=str(video_path))])
             
             logger.info(f"✅ 视频发送成功: {video_info['filename']}")
             
