@@ -93,6 +93,14 @@ except ImportError as e:
     HELP_IMAGE_GENERATOR_AVAILABLE = False
     logger.warning(f"help_image_generator 模块未加载: {e}")
 
+# 视频发送器
+try:
+    from .video_sender import VideoSender, get_random_video_path
+    VIDEO_SENDER_AVAILABLE = True
+except ImportError as e:
+    VIDEO_SENDER_AVAILABLE = False
+    logger.warning(f"video_sender 模块未加载: {e}")
+
 
 class UserDataManager:
     """
@@ -1510,7 +1518,17 @@ class PhigrosPlugin(Star):
     示例: /phi_update_illust
     示例: /phi_update_illust http://127.0.0.1:7890
 
-14. /phi_help
+【视频娱乐】🎬
+14. /phi_video
+    发送随机 Phigros 视频片段 🎵
+    示例: /phi_video
+    💡 从 VideoClip 文件夹随机选择视频
+
+15. /phi_video_list
+    列出所有可用视频 📋
+    示例: /phi_video_list
+
+16. /phi_help
     显示此帮助信息
 
 💡 使用提示:
@@ -1587,3 +1605,76 @@ class PhigrosPlugin(Star):
 
         except Exception as e:
             yield event.plain_result(f"❌ 更新失败: {e}")
+
+    # ==================== 命令: 随机视频 ====================
+    @filter.command("phi_video")
+    async def send_random_video(self, event: AstrMessageEvent):
+        """
+        发送随机 Phigros 视频片段
+        用法: /phi_video
+        """
+        if not VIDEO_SENDER_AVAILABLE:
+            yield event.plain_result("❌ 视频发送器未加载")
+            return
+        
+        try:
+            # 获取随机视频
+            video_path = get_random_video_path(self.data_dir.parent)
+            
+            if not video_path or not video_path.exists():
+                yield event.plain_result("❌ 没有找到视频文件，请检查 VideoClip 文件夹")
+                return
+            
+            # 获取视频信息
+            sender = VideoSender(self.data_dir.parent)
+            video_info = sender.get_video_info(video_path)
+            
+            logger.info(f"🎬 准备发送视频: {video_info['filename']} ({video_info['size_mb']}MB)")
+            
+            # 发送视频
+            yield event.chain_result([
+                Plain(f"🎬 随机 Phigros 视频\n"),
+                Plain(f"📹 {video_info['name']}\n"),
+                Plain(f"📦 大小: {video_info['size_mb']}MB\n"),
+                Plain(f"🎵 Enjoy the music! 🎶\n"),
+                Image(file=str(video_path))
+            ])
+            
+            logger.info(f"✅ 视频发送成功: {video_info['filename']}")
+            
+        except Exception as e:
+            logger.error(f"❌ 发送视频失败: {e}")
+            yield event.plain_result(f"❌ 发送视频失败: {e}")
+
+    @filter.command("phi_video_list")
+    async def list_videos(self, event: AstrMessageEvent):
+        """
+        列出所有可用视频
+        用法: /phi_video_list
+        """
+        if not VIDEO_SENDER_AVAILABLE:
+            yield event.plain_result("❌ 视频发送器未加载")
+            return
+        
+        try:
+            sender = VideoSender(self.data_dir.parent)
+            video_list = sender.get_video_list()
+            
+            if not video_list:
+                yield event.plain_result("📂 VideoClip 文件夹为空\n💡 请将视频文件放入 VideoClip 文件夹")
+                return
+            
+            # 构建列表文本
+            msg_parts = ["🎬 可用视频列表:\n"]
+            for i, video_path in enumerate(video_list, 1):
+                info = sender.get_video_info(video_path)
+                msg_parts.append(f"{i}. {info['name']} ({info['size_mb']}MB)")
+            
+            msg_parts.append(f"\n📊 共 {len(video_list)} 个视频")
+            msg_parts.append("💡 使用 /phi_video 随机发送一个视频")
+            
+            yield event.plain_result("\n".join(msg_parts))
+            
+        except Exception as e:
+            logger.error(f"❌ 获取视频列表失败: {e}")
+            yield event.plain_result(f"❌ 获取视频列表失败: {e}")
