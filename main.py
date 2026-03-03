@@ -12,7 +12,7 @@ from typing import Optional, Dict, Any, List
 from pathlib import Path
 
 from astrbot.api.event import filter, AstrMessageEvent
-from astrbot.api.message_components import Plain, Image
+from astrbot.api.message_components import Plain, Image, Video
 from astrbot.api.star import Context, Star, register, StarTools
 from astrbot.api import logger
 
@@ -1637,7 +1637,7 @@ class PhigrosPlugin(Star):
                 Plain(f"📹 {video_info['name']}\n"),
                 Plain(f"📦 大小: {video_info['size_mb']}MB\n"),
                 Plain(f"🎵 Enjoy the music! 🎶\n"),
-                Image(file=str(video_path))
+                Video(file=str(video_path))
             ])
             
             logger.info(f"✅ 视频发送成功: {video_info['filename']}")
