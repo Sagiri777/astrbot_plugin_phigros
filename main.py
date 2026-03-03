@@ -1618,15 +1618,15 @@ class PhigrosPlugin(Star):
             return
         
         try:
-            # 获取随机视频
-            video_path = get_random_video_path(self.data_dir.parent)
+            # 获取随机视频（data_dir 已经是插件目录）
+            video_path = get_random_video_path(self.data_dir)
             
             if not video_path or not video_path.exists():
                 yield event.plain_result("❌ 没有找到视频文件，请检查 VideoClip 文件夹")
                 return
             
             # 获取视频信息
-            sender = VideoSender(self.data_dir.parent)
+            sender = VideoSender(self.data_dir)
             video_info = sender.get_video_info(video_path)
             
             logger.info(f"🎬 准备发送视频: {video_info['filename']} ({video_info['size_mb']}MB)")
@@ -1657,7 +1657,7 @@ class PhigrosPlugin(Star):
             return
         
         try:
-            sender = VideoSender(self.data_dir.parent)
+            sender = VideoSender(self.data_dir)
             video_list = sender.get_video_list()
             
             if not video_list:
