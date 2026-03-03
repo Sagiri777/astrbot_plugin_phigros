@@ -85,6 +85,14 @@ except ImportError as e:
     PHI_STYLE_RENDERER_AVAILABLE = False
     logger.warning(f"phi_style_renderer 模块未加载: {e}")
 
+# 帮助图片生成器
+try:
+    from .help_image_generator import HelpImageGenerator, generate_help_image
+    HELP_IMAGE_GENERATOR_AVAILABLE = True
+except ImportError as e:
+    HELP_IMAGE_GENERATOR_AVAILABLE = False
+    logger.warning(f"help_image_generator 模块未加载: {e}")
+
 
 class UserDataManager:
     """
@@ -1435,7 +1443,7 @@ class PhigrosPlugin(Star):
     @filter.command("phi_help")
     async def show_help(self, event: AstrMessageEvent):
         """
-        显示 Phigros 插件帮助信息
+        显示 Phigros 插件帮助信息（带精美图片背景）
         用法: /phi_help
         """
         help_text = """🎮 Phigros Query 插件帮助
@@ -1520,6 +1528,28 @@ class PhigrosPlugin(Star):
 • default_search_limit - 默认搜索数量
 • default_history_limit - 默认历史记录数量
 """
+        
+        # 尝试生成帮助图片
+        if HELP_IMAGE_GENERATOR_AVAILABLE:
+            try:
+                logger.info("🎨 正在生成帮助图片...")
+                help_image_path = generate_help_image(self.data_dir.parent, help_text)
+                
+                if help_image_path and help_image_path.exists():
+                    logger.info(f"✅ 帮助图片生成成功: {help_image_path}")
+                    yield event.chain_result([
+                        Plain("🎮 Phigros Query 插件帮助\n"),
+                        Image(file=str(help_image_path)),
+                        Plain("\n💡 使用 /phi_help 可随时查看此帮助")
+                    ])
+                    return
+                else:
+                    logger.warning("⚠️ 帮助图片生成失败，使用文本模式")
+            except Exception as e:
+                logger.error(f"❌ 生成帮助图片失败: {e}")
+                logger.info("📝 回退到文本模式")
+        
+        # 回退到纯文本模式
         yield event.plain_result(help_text)
 
     @filter.command("phi_update_illust")
