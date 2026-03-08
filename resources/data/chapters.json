@@ -1,0 +1,3280 @@
+[
+  {
+    "code": "Single",
+    "title": "\\ChapterSingleTitle",
+    "sub_title": "",
+    "cover": "Single",
+    "songs": [
+      {
+        "id": "Verruckt.Raimukun.0",
+        "name": "Verrückt",
+        "difficulty": [
+          "7.0",
+          "12.6",
+          "16.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Xenophobia.XinG.0",
+        "name": "Xenophobia",
+        "difficulty": [
+          "6.5",
+          "12.7",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "ABYSSMOTION192333.ariiolTSAR奏Sou.0",
+        "name": "ABYSS MOTION 192.333",
+        "difficulty": [
+          "4.0",
+          "9.8",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "彼方へ名もなき海辺より.打打だいず&月乃.0",
+        "name": "彼方へ、名もなき海辺より",
+        "difficulty": [
+          "3.5",
+          "8.1",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Locomotive.K.0",
+        "name": "Locomotive",
+        "difficulty": [
+          "4.0",
+          "9.7",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "最高傑作.PYKAMIA.0",
+        "name": "最高傑作",
+        "difficulty": [
+          "4.5",
+          "9.3",
+          "13.9",
+          "0"
+        ]
+      },
+      {
+        "id": "BANGINGSTRIKE.DewPleiades.0",
+        "name": "BANGING STRIKE",
+        "difficulty": [
+          "5.0",
+          "10.2",
+          "15.9",
+          "16.8"
+        ]
+      },
+      {
+        "id": "000AinSophAur.Yumeji.0",
+        "name": "000 -Ain Soph Aur-",
+        "difficulty": [
+          "2.5",
+          "8.4",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0",
+        "name": "So laggy! (feat. Uzumaki)",
+        "difficulty": [
+          "5.0",
+          "9.5",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "RetributionCycleofRedemption.ArdolfvsDaily天利.0",
+        "name": "Retribution ~ Cycle of Redemption ~ ",
+        "difficulty": [
+          "6.0",
+          "11.3",
+          "16.2",
+          "0"
+        ]
+      },
+      {
+        "id": "雪降り雪が降っている.AiSSw夜輪ft結月ゆかり.0",
+        "name": "雪降り ~雪が降っている~",
+        "difficulty": [
+          "1.5",
+          "7.5",
+          "12.0",
+          "14.0"
+        ]
+      },
+      {
+        "id": "Helios.NOABotaNya.0",
+        "name": "Helios",
+        "difficulty": [
+          "5.5",
+          "9.0",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "FrozenHeart.A39沙包P.0",
+        "name": "Frozen Heart",
+        "difficulty": [
+          "5.0",
+          "10.6",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "Aliceinaxxxxxxxx.Nagiha.0",
+        "name": "Alice in a xxxxxxxx",
+        "difficulty": [
+          "5.0",
+          "9.5",
+          "15.8",
+          "0"
+        ]
+      },
+      {
+        "id": "宇宙残骸少女CosmicDustyGirl.辻原一郎.0",
+        "name": "宇宙残骸少女 (Cosmic Dusty Girl)",
+        "difficulty": [
+          "6.0",
+          "10.2",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "SwingSkipDrop.ミハイル.0",
+        "name": "Swing Skip Drop",
+        "difficulty": [
+          "4.5",
+          "9.1",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "ニライカナイNiraicA_naiMix.roopfromSTR.0",
+        "name": "ニライカナイ (NiraicA_nai Mix)",
+        "difficulty": [
+          "3.0",
+          "8.3",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "インマイマインド.レシオP.0",
+        "name": "インマイマインド",
+        "difficulty": [
+          "1.5",
+          "9.2",
+          "12.2",
+          "0"
+        ]
+      },
+      {
+        "id": "贝多芬祝福BeethovenBlessing.Nauts.0",
+        "name": "贝多芬祝福 (Beethoven Blessing)",
+        "difficulty": [
+          "4.5",
+          "10.3",
+          "15.0",
+          "0"
+        ]
+      },
+      {
+        "id": "蝎虎天体Lacertid.CreamvsDaily天利.0",
+        "name": "蝎虎天体 -Lacertid-",
+        "difficulty": [
+          "4.5",
+          "10.8",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Shelter.MeatyRabbitNceS.0",
+        "name": "Shelter",
+        "difficulty": [
+          "3.5",
+          "8.8",
+          "13.2",
+          "0"
+        ]
+      },
+      {
+        "id": "KirakiraNoelStory.RekuMochizuki.0",
+        "name": "Kirakira Noel Story!!",
+        "difficulty": [
+          "4.0",
+          "10.2",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Devotion.Connexio.0",
+        "name": "Devotion",
+        "difficulty": [
+          "4.5",
+          "9.6",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "白と黒のバケモノ.テヅカ.0",
+        "name": "白と黒のバケモノ",
+        "difficulty": [
+          "4.0",
+          "11.4",
+          "15.9",
+          "0"
+        ]
+      },
+      {
+        "id": "CometFeat符白牙.CNHKSS.0",
+        "name": "Comet",
+        "difficulty": [
+          "3.0",
+          "10.5",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "valorstarcross.LundyvsWyvren.0",
+        "name": "valor/starcross",
+        "difficulty": [
+          "6.5",
+          "12.7",
+          "15.8",
+          "0"
+        ]
+      },
+      {
+        "id": "FixationsTowardtheStars.Foodbot.0",
+        "name": "Fixations Toward the Stars",
+        "difficulty": [
+          "3.5",
+          "10.9",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Letempsperdu.Daison.0",
+        "name": "Le temps perdu",
+        "difficulty": [
+          "4.0",
+          "9.0",
+          "12.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Schadenfreude.ZxNX.0",
+        "name": "Schadenfreude",
+        "difficulty": [
+          "4.5",
+          "10.6",
+          "15.1",
+          "0"
+        ]
+      },
+      {
+        "id": "Originally.SNKSMizku.0",
+        "name": "Originally",
+        "difficulty": [
+          "1.0",
+          "9.3",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Thrashforce.KAHvsE0ri4.0",
+        "name": "Thrash force",
+        "difficulty": [
+          "4.5",
+          "10.7",
+          "15.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Grimheart.Puru.0",
+        "name": "Grimheart",
+        "difficulty": [
+          "3.0",
+          "8.9",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "BoundedQuietude.FiniteLimitvsSiLiS.0",
+        "name": "Bounded Quietude",
+        "difficulty": [
+          "7.0",
+          "7.5",
+          "16.2",
+          "0"
+        ]
+      },
+      {
+        "id": "今天不是明天.PIKASONICfeat兰音Reine.0",
+        "name": "今天不是明天",
+        "difficulty": [
+          "2.5",
+          "8.3",
+          "13.4",
+          "0"
+        ]
+      },
+      {
+        "id": "Bloom.targ麻团qwq.0",
+        "name": "Bloom",
+        "difficulty": [
+          "3.5",
+          "11.2",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "ShineAfter.ADeanJocularACE.0",
+        "name": "Shine After",
+        "difficulty": [
+          "4.0",
+          "9.7",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "PRAGMATISMRESURRECTION.Laur.0",
+        "name": "PRAGMATISM -RESURRECTION-",
+        "difficulty": [
+          "7.5",
+          "12.9",
+          "16.0",
+          "16.6"
+        ]
+      },
+      {
+        "id": "Antithese.Blacklolita.0",
+        "name": "Antithese",
+        "difficulty": [
+          "4.5",
+          "10.8",
+          "15.4",
+          "16.4"
+        ]
+      },
+      {
+        "id": "BRAINHACKER.SOMON.0",
+        "name": "BRAIN HACKER",
+        "difficulty": [
+          "4.5",
+          "9.3",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0",
+        "name": "Broken Sky",
+        "difficulty": [
+          "3.0",
+          "8.6",
+          "13.2",
+          "0"
+        ]
+      },
+      {
+        "id": "CrushBETA.shadow_bling.0",
+        "name": "Crush BETA",
+        "difficulty": [
+          "4.0",
+          "10.5",
+          "15.1",
+          "0"
+        ]
+      },
+      {
+        "id": "GVNGlitterVomitusandNeon.SaltySaltUnfold33.0",
+        "name": "G.V.N. (Glitter,Vomitus and Neon)",
+        "difficulty": [
+          "5.0",
+          "9.7",
+          "15.8",
+          "0"
+        ]
+      },
+      {
+        "id": "聖夜讃歌.A39沙包P.0",
+        "name": "聖夜讃歌",
+        "difficulty": [
+          "4.5",
+          "10.1",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "bye.DingerBox.0",
+        "name": "bye",
+        "difficulty": [
+          "4.0",
+          "9.1",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Bitterblossom.imvi.0",
+        "name": "Bitterblossom",
+        "difficulty": [
+          "2.5",
+          "9.5",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "DiamondEyes.SYNTHETIC.0",
+        "name": "Diamond Eyes",
+        "difficulty": [
+          "3.5",
+          "6.5",
+          "13.4",
+          "0"
+        ]
+      },
+      {
+        "id": "TriumphRegret.typeMARS.0",
+        "name": "Triumph & Regret",
+        "difficulty": [
+          "5.0",
+          "10.0",
+          "15.0",
+          "0"
+        ]
+      },
+      {
+        "id": "ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0",
+        "name": "ぱぴぷぴぷぴぱ",
+        "difficulty": [
+          "5.0",
+          "12.3",
+          "15.9",
+          "0"
+        ]
+      },
+      {
+        "id": "Realms.HinkikAHimitsu.0",
+        "name": "Realms",
+        "difficulty": [
+          "3.5",
+          "10.2",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "RainyHeart.BelieverInYou阿卡姆巫师.0",
+        "name": "Rainy Heart",
+        "difficulty": [
+          "4.0",
+          "9.4",
+          "12.9",
+          "0"
+        ]
+      },
+      {
+        "id": "NowIsTheTimeDoIt.RoyMikelate.0",
+        "name": "Now Is The Time, Do It",
+        "difficulty": [
+          "4.5",
+          "11.2",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Bougainvillea.Jade.0",
+        "name": "Bougainvillea",
+        "difficulty": [
+          "4.0",
+          "8.3",
+          "13.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Random.SobremSilentroom.0",
+        "name": "Random",
+        "difficulty": [
+          "5.5",
+          "12.2",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "PoisonANDORAffection.LeaF.0",
+        "name": "Poison AND÷OR Affection",
+        "difficulty": [
+          "3.5",
+          "9.9",
+          "15.7",
+          "0"
+        ]
+      },
+      {
+        "id": "Upshift.Iriss-Frantzz.0",
+        "name": "Upshift",
+        "difficulty": [
+          "6.0",
+          "10.8",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "インフェルノシティ.Ponchifeatはぁち.0",
+        "name": "インフェルノシティ",
+        "difficulty": [
+          "4.5",
+          "11.5",
+          "15.7",
+          "0"
+        ]
+      },
+      {
+        "id": "青丘.BLACK0.0",
+        "name": "青丘",
+        "difficulty": [
+          "5.5",
+          "10.5",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Pontdessouvenirs.VeetaCrushvsitsufeatitsu.0",
+        "name": "Pont des souvenirs",
+        "difficulty": [
+          "5.5",
+          "10.7",
+          "15.3",
+          "0"
+        ]
+      },
+      {
+        "id": "BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0",
+        "name": "Believe Light (feat. 果丸哒呦)",
+        "difficulty": [
+          "2.5",
+          "8.9",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "BreakOver.Kforest.0",
+        "name": "Break Over",
+        "difficulty": [
+          "5.0",
+          "11.5",
+          "14.1",
+          "14.9"
+        ]
+      },
+      {
+        "id": "ElCondorPasaPhigrosEdit.PlasticFruits.0",
+        "name": "El Condor Pasa (Phigros Edit)",
+        "difficulty": [
+          "6.5",
+          "12.5",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "RainySeason.AbyssIdols.0",
+        "name": "Rainy Season",
+        "difficulty": [
+          "5.5",
+          "10.7",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "EternalSnow.AbyssIdols.0",
+        "name": "Eternal Snow",
+        "difficulty": [
+          "4.0",
+          "9.6",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "BraveNotes.TurquoiseDRIVENota.0",
+        "name": "Brave Notes",
+        "difficulty": [
+          "5.5",
+          "11.4",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "csqn.Aoi.0",
+        "name": "c.s.q.n.",
+        "difficulty": [
+          "5.0",
+          "12.2",
+          "15.9",
+          "0"
+        ]
+      },
+      {
+        "id": "DataErr0r.Cosmograph.0",
+        "name": "DataErr0r",
+        "difficulty": [
+          "6.0",
+          "11.8",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "OnAndOn.ETIAfeatJenga.0",
+        "name": "On And On!!",
+        "difficulty": [
+          "5.0",
+          "9.6",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "月下缭乱.月見静華vsLUNARiUM.0",
+        "name": "月下缭乱",
+        "difficulty": [
+          "4.5",
+          "9.4",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "いざ参ります.Uskefeat棗いつき.0",
+        "name": "いざ、参ります",
+        "difficulty": [
+          "3.5",
+          "9.2",
+          "15.0",
+          "0"
+        ]
+      },
+      {
+        "id": "opia.rN.0",
+        "name": "opia",
+        "difficulty": [
+          "5.5",
+          "10.6",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "IMustSayNo.TangJuan.0",
+        "name": "I Must Say No",
+        "difficulty": [
+          "1.5",
+          "9.2",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "FULiAUTOBUSTER.MYUKKE.0",
+        "name": "FULi AUTO BUSTER",
+        "difficulty": [
+          "3.5",
+          "9.7",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "Luminescent.Daison.0",
+        "name": "Luminescent",
+        "difficulty": [
+          "5.5",
+          "9.7",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "FutureMind.RayNauticaRekuMochizuki.0",
+        "name": "Future Mind",
+        "difficulty": [
+          "4.5",
+          "11.0",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "996.李化禹.0",
+        "name": "996",
+        "difficulty": [
+          "4.0",
+          "9.4",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "AnotherRound.JustinDai.0",
+        "name": "Another Round",
+        "difficulty": [
+          "2.5",
+          "9.6",
+          "13.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Dreamland.z1onkyrrin.0",
+        "name": "Dreamland",
+        "difficulty": [
+          "7.0",
+          "10.3",
+          "13.6",
+          "0"
+        ]
+      },
+      {
+        "id": "ジングルベルJingleBell.A39沙包P.0",
+        "name": "ジングルベル(Jingle Bell)",
+        "difficulty": [
+          "4.5",
+          "8.5",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Concvssion.Halv.0",
+        "name": "Concvssion",
+        "difficulty": [
+          "6.0",
+          "11.3",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "parsey.siqlo.0",
+        "name": "ρars/ey",
+        "difficulty": [
+          "4.0",
+          "11.7",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "Kerberos.Zris.0",
+        "name": "Kerberos",
+        "difficulty": [
+          "5.5",
+          "12.4",
+          "15.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Arkhei.SeraAmagi.0",
+        "name": "-Arkhei-",
+        "difficulty": [
+          "7.5",
+          "8.8",
+          "12.6",
+          "0"
+        ]
+      },
+      {
+        "id": "Nhelv.Silentroom.0",
+        "name": "Nhelv",
+        "difficulty": [
+          "1.5",
+          "12.0",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "energytrixxx.KAH.0",
+        "name": "energy trixxx",
+        "difficulty": [
+          "5.0",
+          "10.4",
+          "15.4",
+          "0"
+        ]
+      },
+      {
+        "id": "游园地.椒盐菠萝.0",
+        "name": "游园地",
+        "difficulty": [
+          "2.5",
+          "7.5",
+          "13.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Apocalyptic.ZClaxxSumaiLight.0",
+        "name": "Apocalyptic",
+        "difficulty": [
+          "3.0",
+          "10.4",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "UnorthodoxThoughts.Joulez.0",
+        "name": "Unorthodox Thoughts",
+        "difficulty": [
+          "5.5",
+          "12.0",
+          "13.9",
+          "0"
+        ]
+      },
+      {
+        "id": "WithYou.Cashew.0",
+        "name": "With You",
+        "difficulty": [
+          "3.5",
+          "9.1",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "BetterGraphicAnimation.ルゼ.0",
+        "name": "Better Graphic Animation",
+        "difficulty": [
+          "6.0",
+          "11.1",
+          "15.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Eltaw.Fl00t.0",
+        "name": "Eltaw",
+        "difficulty": [
+          "7.0",
+          "10.6",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "大和撫子WildDances.adapatorvsDRIVE.0",
+        "name": "大和撫子 -Wild Dances-",
+        "difficulty": [
+          "5.5",
+          "11.8",
+          "15.1",
+          "0"
+        ]
+      },
+      {
+        "id": "Wavetapper.Frums.0",
+        "name": "Wavetapper",
+        "difficulty": [
+          "6.0",
+          "9.4",
+          "13.9",
+          "0"
+        ]
+      },
+      {
+        "id": "modulus.PTB10.0",
+        "name": "modulus",
+        "difficulty": [
+          "4.5",
+          "10.4",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "CervelleConnexion.SCTL.0",
+        "name": "Cervelle Connexion",
+        "difficulty": [
+          "5.0",
+          "11.3",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "雪降りメリクリ.A39.0",
+        "name": "雪降り、メリクリ",
+        "difficulty": [
+          "4.5",
+          "10.8",
+          "15.4",
+          "0"
+        ]
+      },
+      {
+        "id": "Trane.MALVA.0",
+        "name": "Träne",
+        "difficulty": [
+          "1.5",
+          "7.0",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Aventyr.GrandThawRigelTheatre.0",
+        "name": "Äventyr",
+        "difficulty": [
+          "3.5",
+          "9.9",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "HardcoreKwaya.EnFr.0",
+        "name": "Hardcore Kwaya",
+        "difficulty": [
+          "4.5",
+          "8.4",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "SIGMA.Kryexe.0",
+        "name": "SIGMA",
+        "difficulty": [
+          "5.0",
+          "10.5",
+          "15.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Electron.ElousFZ.0",
+        "name": "Electron",
+        "difficulty": [
+          "3.5",
+          "9.4",
+          "13.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Starduster.Quree.0",
+        "name": "Starduster",
+        "difficulty": [
+          "5.5",
+          "11.4",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "ParallelRetrogressionGameVer.Tetrajectory.0",
+        "name": "Parallel Retrogression(Game Ver.)",
+        "difficulty": [
+          "7.0",
+          "10.9",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "EndMe.ZxNXasDelaina.0",
+        "name": "End Me",
+        "difficulty": [
+          "5.5",
+          "7.5",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Orthodox.tokiwa.0",
+        "name": "Orthodox",
+        "difficulty": [
+          "4.5",
+          "8.5",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "TheMountainEater.PaulBazooka.0",
+        "name": "The Mountain Eater",
+        "difficulty": [
+          "5.5",
+          "9.6",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Palescreen.WyvernPfeatMadol.0",
+        "name": "Palescreen",
+        "difficulty": [
+          "5.5",
+          "12.3",
+          "15.9",
+          "0"
+        ]
+      },
+      {
+        "id": "GetBack.CAP3.0",
+        "name": "Get Back",
+        "difficulty": [
+          "6.5",
+          "10.7",
+          "14.1",
+          "0"
+        ]
+      },
+      {
+        "id": "MagentaPotion.EmoCo.0",
+        "name": "Magenta Potion",
+        "difficulty": [
+          "6.5",
+          "11.3",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "SpeedUp.DarTokki.0",
+        "name": "Speed Up!",
+        "difficulty": [
+          "4.5",
+          "10.3",
+          "14.0",
+          "0"
+        ]
+      },
+      {
+        "id": "DeadSoul.SoundSouler.0",
+        "name": "Dead Soul",
+        "difficulty": [
+          "4.5",
+          "12.3",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "RubbishSorting.CtymaxvsNceS.0",
+        "name": "Rubbish Sorting",
+        "difficulty": [
+          "3.5",
+          "9.4",
+          "13.1",
+          "0"
+        ]
+      },
+      {
+        "id": "NextTime.SaMZIng.0",
+        "name": "Next Time",
+        "difficulty": [
+          "6.0",
+          "8.7",
+          "12.4",
+          "0"
+        ]
+      },
+      {
+        "id": "Aleph0.LeaF.0",
+        "name": "Aleph-0",
+        "difficulty": [
+          "3.5",
+          "12.2",
+          "16.0",
+          "0",
+          "15.6"
+        ]
+      },
+      {
+        "id": "Burn.NceS.0",
+        "name": "Burn",
+        "difficulty": [
+          "7.0",
+          "11.2",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "SnowDesert.WyvernP.0",
+        "name": "Snow Desert",
+        "difficulty": [
+          "5.0",
+          "10.3",
+          "13.4",
+          "0"
+        ]
+      },
+      {
+        "id": "KhronostasisKatharsis.Halv.0",
+        "name": "Khronostasis Katharsis",
+        "difficulty": [
+          "6.0",
+          "11.8",
+          "14.0",
+          "0"
+        ]
+      },
+      {
+        "id": "SparkleNewLife.rider.0",
+        "name": "Sparkle New Life",
+        "difficulty": [
+          "4.0",
+          "9.2",
+          "12.8",
+          "0"
+        ]
+      },
+      {
+        "id": "狂喜蘭舞.LeaF.0",
+        "name": "狂喜蘭舞",
+        "difficulty": [
+          "7.0",
+          "11.7",
+          "14.3",
+          "16.4"
+        ]
+      },
+      {
+        "id": "Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0",
+        "name": "Sein",
+        "difficulty": [
+          "5.0",
+          "10.1",
+          "15.1",
+          "0"
+        ]
+      },
+      {
+        "id": "FindMe.Kforest.0",
+        "name": "Find_Me",
+        "difficulty": [
+          "5.5",
+          "10.5",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "華灯爱.闫东炜.0",
+        "name": "華灯爱",
+        "difficulty": [
+          "6.0",
+          "10.6",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "开心病.闫东炜.0",
+        "name": "开心病",
+        "difficulty": [
+          "7.0",
+          "11.9",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Aphasia.闫东炜.0",
+        "name": "Aphasia",
+        "difficulty": [
+          "4.0",
+          "8.8",
+          "13.3",
+          "0"
+        ]
+      },
+      {
+        "id": "RIPPER.Friedwav.0",
+        "name": "RIPPER",
+        "difficulty": [
+          "6.5",
+          "11.7",
+          "15.4",
+          "0"
+        ]
+      },
+      {
+        "id": "DropIt.Asuka.0",
+        "name": "Drop It",
+        "difficulty": [
+          "4.0",
+          "9.2",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "云女孩.符白牙SiYFics.0",
+        "name": "云女孩",
+        "difficulty": [
+          "2.0",
+          "8.9",
+          "12.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Dash.小红Akane李祥辉.0",
+        "name": "Dash",
+        "difficulty": [
+          "2.5",
+          "5.5",
+          "9.7",
+          "0"
+        ]
+      },
+      {
+        "id": "dBdoll.YUESTEVENuen.0",
+        "name": "dB doll",
+        "difficulty": [
+          "1.5",
+          "3.5",
+          "8.3",
+          "13.6"
+        ]
+      },
+      {
+        "id": "风屿.闫东炜.0",
+        "name": "风屿",
+        "difficulty": [
+          "5.5",
+          "9.8",
+          "14.0",
+          "15.1"
+        ]
+      },
+      {
+        "id": "万吨匿名信.闫东炜.0",
+        "name": "万吨匿名信",
+        "difficulty": [
+          "4.5",
+          "9.5",
+          "13.3",
+          "0"
+        ]
+      },
+      {
+        "id": "萤火虫の怨.闫东炜.0",
+        "name": "萤火虫の怨",
+        "difficulty": [
+          "4.0",
+          "9.8",
+          "13.0",
+          "0"
+        ]
+      },
+      {
+        "id": "MARENOL.LeaF.0",
+        "name": "MARENOL",
+        "difficulty": [
+          "2.0",
+          "10.3",
+          "13.9",
+          "0"
+        ]
+      },
+      {
+        "id": "もぺもぺ.LeaF.0",
+        "name": "もぺもぺ",
+        "difficulty": [
+          "2.0",
+          "6.5",
+          "11.1",
+          "15.4"
+        ]
+      },
+      {
+        "id": "Doppelganger.LeaF.0",
+        "name": "Doppelganger",
+        "difficulty": [
+          "5.0",
+          "9.0",
+          "15.1",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MainStoryLegacy",
+    "title": "\\ChapterLegacyTitle",
+    "sub_title": "",
+    "cover": "Legacy",
+    "songs": [
+      {
+        "id": "Glaciaxion.SunsetRay.0",
+        "name": "Glaciaxion",
+        "difficulty": [
+          "1.0",
+          "6.5",
+          "12.6",
+          "0"
+        ]
+      },
+      {
+        "id": "EradicationCatastrophe.NceS.0",
+        "name": "Eradication Catastrophe",
+        "difficulty": [
+          "3.5",
+          "7.5",
+          "12.7",
+          "0"
+        ]
+      },
+      {
+        "id": "Credits.Frums.0",
+        "name": "Credits",
+        "difficulty": [
+          "4.5",
+          "10.4",
+          "13.6",
+          "15.7"
+        ]
+      },
+      {
+        "id": "Dlyrotz.Likey.0",
+        "name": "Dlyrotz",
+        "difficulty": [
+          "4.0",
+          "9.1",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "EnginexStartmelodymix.CrossingSound.0",
+        "name": "Engine x Start!! (melody mix)",
+        "difficulty": [
+          "2.5",
+          "8.3",
+          "13.0",
+          "0"
+        ]
+      },
+      {
+        "id": "光.姜米條.0",
+        "name": "光",
+        "difficulty": [
+          "2.0",
+          "7.5",
+          "12.4",
+          "0"
+        ]
+      },
+      {
+        "id": "Wintercube.CtymaxfeatNceS.0",
+        "name": "Winter ↑cube↓",
+        "difficulty": [
+          "3.5",
+          "8.2",
+          "13.3",
+          "0"
+        ]
+      },
+      {
+        "id": "混乱Confusion.OnlyMyBlackScore.0",
+        "name": "混乱-Confusion",
+        "difficulty": [
+          "4.0",
+          "10.0",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Cipher20.TetrajectoryfeatCtymax.0",
+        "name": "Cipher : /2&//<|0",
+        "difficulty": [
+          "5.0",
+          "10.3",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "FULiAUTOSHOOTER.MYUKKE.0",
+        "name": "FULi AUTO SHOOTER",
+        "difficulty": [
+          "3.0",
+          "9.0",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "HumaN.SOTUI.0",
+        "name": "HumaN",
+        "difficulty": [
+          "3.0",
+          "8.0",
+          "12.9",
+          "0"
+        ]
+      },
+      {
+        "id": "PRAW.Bluewind.0",
+        "name": "[PRAW]",
+        "difficulty": [
+          "6.0",
+          "10.6",
+          "15.1",
+          "0"
+        ]
+      },
+      {
+        "id": "Cereris.SunsetRayNceS.0",
+        "name": "Cereris",
+        "difficulty": [
+          "5.5",
+          "10.9",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "PixelRebelz.Normal1zer.0",
+        "name": "Pixel Rebelz",
+        "difficulty": [
+          "4.5",
+          "9.7",
+          "15.3",
+          "0"
+        ]
+      },
+      {
+        "id": "NonMelodicRagezMUGEdit.Normal1zer.0",
+        "name": "Non-Melodic Ragez (MUG Edit)",
+        "difficulty": [
+          "5.5",
+          "11.6",
+          "16.1",
+          "0"
+        ]
+      },
+      {
+        "id": "SultanRage.MonstDeath.0",
+        "name": "Sultan Rage",
+        "difficulty": [
+          "4.0",
+          "7.0",
+          "12.3",
+          "0"
+        ]
+      },
+      {
+        "id": "ClassMemories.AntistarfeatCtymax.0",
+        "name": "Class Memories",
+        "difficulty": [
+          "6.0",
+          "10.8",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "SURREALISM.Itsuki.0",
+        "name": "-SURREALISM-",
+        "difficulty": [
+          "5.0",
+          "9.4",
+          "13.4",
+          "0"
+        ]
+      },
+      {
+        "id": "BonusTime.MegaloPaleWhite.0",
+        "name": "Bonus Time",
+        "difficulty": [
+          "3.5",
+          "9.5",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "ENERGYSYNERGYMATRIX.Tanchiky.0",
+        "name": "ENERGY SYNERGY MATRIX",
+        "difficulty": [
+          "5.5",
+          "11.5",
+          "14.4",
+          "0",
+          "14.0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MainStory5",
+    "title": "\\ChapterMainStory5Title",
+    "sub_title": "\\ChapterMainStory5SubTitle",
+    "cover": "Chapter 5",
+    "songs": [
+      {
+        "id": "NYA.FLuoRiTe姜米條.0",
+        "name": "NYA!!! (Phigros ver.)",
+        "difficulty": [
+          "2.0",
+          "8.6",
+          "13.1",
+          "0"
+        ]
+      },
+      {
+        "id": "JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0",
+        "name": "JunXion Between Life And Death(VIP Mix)",
+        "difficulty": [
+          "3.0",
+          "8.7",
+          "13.4",
+          "0"
+        ]
+      },
+      {
+        "id": "cryout.JuE.0",
+        "name": "cryout",
+        "difficulty": [
+          "3.5",
+          "9.9",
+          "13.6",
+          "0"
+        ]
+      },
+      {
+        "id": "Reimei.影虎.0",
+        "name": "Reimei",
+        "difficulty": [
+          "6.5",
+          "11.7",
+          "15.1",
+          "0"
+        ]
+      },
+      {
+        "id": "尊師TheGuru.rider.0",
+        "name": "尊師 ～The Guru～",
+        "difficulty": [
+          "6.0",
+          "11.6",
+          "15.4",
+          "0"
+        ]
+      },
+      {
+        "id": "Spasmodic.姜米條颶風元力上人.0",
+        "name": "Spasmodic",
+        "difficulty": [
+          "8.2",
+          "13.3",
+          "15.5",
+          "16.7"
+        ]
+      },
+      {
+        "id": "LeaveAllBehind.rider.0",
+        "name": "Leave All Behind",
+        "difficulty": [
+          "3.0",
+          "8.9",
+          "12.7",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MainStory6",
+    "title": "\\ChapterMainStory6Title",
+    "sub_title": "\\ChapterMainStory6SubTitle",
+    "cover": "Chapter 6",
+    "songs": [
+      {
+        "id": "ColorfulDays.P4koofeatつゆり花鈴.0",
+        "name": "Colorful Days♪",
+        "difficulty": [
+          "5.0",
+          "7.0",
+          "12.6",
+          "0"
+        ]
+      },
+      {
+        "id": "microwav.dandeless.0",
+        "name": "micro.wav",
+        "difficulty": [
+          "6.0",
+          "10.5",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "重生.姜米條.0",
+        "name": "重生",
+        "difficulty": [
+          "4.5",
+          "8.8",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "NOONEYESMAN.MYUKKE.0",
+        "name": "NO ONE YES MAN",
+        "difficulty": [
+          "7.0",
+          "10.9",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "望影の方舟Six.SeURa.0",
+        "name": "望影の方舟Six",
+        "difficulty": [
+          "6.5",
+          "11.9",
+          "15.9",
+          "0"
+        ]
+      },
+      {
+        "id": "Igallta.SeURa.0",
+        "name": "Igallta",
+        "difficulty": [
+          "7.5",
+          "12.2",
+          "16.1",
+          "17.4"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MainStory7",
+    "title": "\\ChapterMainStory7Title",
+    "sub_title": "\\ChapterMainStory7SubTitle",
+    "cover": "Chapter 7",
+    "songs": [
+      {
+        "id": "ClockParadox.WyvernP.0",
+        "name": "Clock Paradox",
+        "difficulty": [
+          "2.0",
+          "6.0",
+          "12.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Chronologika.Hundotte.0",
+        "name": "Chronologika",
+        "difficulty": [
+          "3.5",
+          "9.8",
+          "13.9",
+          "0"
+        ]
+      },
+      {
+        "id": "NickofTime.P4koo.0",
+        "name": "Nick of Time",
+        "difficulty": [
+          "6.0",
+          "9.3",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "Chronomia.Lime.0",
+        "name": "Chronomia",
+        "difficulty": [
+          "4.5",
+          "11.1",
+          "15.4",
+          "0"
+        ]
+      },
+      {
+        "id": "ChronosCollapseLaCampanella.SunsetRay.0",
+        "name": "Chronos Collapse - La Campanella",
+        "difficulty": [
+          "4.5",
+          "12.5",
+          "16.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Rrharil.TeamGrimoire.0",
+        "name": "Rrhar'il",
+        "difficulty": [
+          "7.0",
+          "12.7",
+          "16.1",
+          "17.6"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MainStory8",
+    "title": "\\ChapterMainStory8Title",
+    "sub_title": "\\ChapterMainStory8SubTitle",
+    "cover": "Chapter 8",
+    "songs": [
+      {
+        "id": "CraveWave.LandRoot.0",
+        "name": "Crave Wave",
+        "difficulty": [
+          "2.5",
+          "8.0",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "TheChariotREVIIVAL.Attoclef.0",
+        "name": "The Chariot ~REVIIVAL~",
+        "difficulty": [
+          "5.0",
+          "9.0",
+          "14.0",
+          "0"
+        ]
+      },
+      {
+        "id": "Luminescence.米虾Fomiki初云CLoudie.0",
+        "name": "Luminescence",
+        "difficulty": [
+          "5.5",
+          "11.0",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Retribution.nmyKryexe.0",
+        "name": "Retribution",
+        "difficulty": [
+          "6.0",
+          "11.6",
+          "16.2",
+          "0"
+        ]
+      },
+      {
+        "id": "DESTRUCTION321.Normal1zervsBrokenNerdz.0",
+        "name": "DESTRUCTION 3,2,1",
+        "difficulty": [
+          "8.5",
+          "13.1",
+          "16.3",
+          "17.3"
+        ]
+      },
+      {
+        "id": "DistortedFate.Sakuzyo.0",
+        "name": "Distorted Fate",
+        "difficulty": [
+          "8.1",
+          "13.5",
+          "16.3",
+          "17.4"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "SideStory1",
+    "title": "\\ChapterSideStory1Title",
+    "sub_title": "\\ChapterSideStory1SubTitle",
+    "cover": "Side story 1",
+    "songs": [
+      {
+        "id": "Poseidon.1112vsStar.0",
+        "name": "Ποσειδών",
+        "difficulty": [
+          "6.0",
+          "8.8",
+          "12.8",
+          "16.2"
+        ]
+      },
+      {
+        "id": "WATER.A39沙包P.0",
+        "name": "WATER",
+        "difficulty": [
+          "4.5",
+          "9.4",
+          "13.6",
+          "0"
+        ]
+      },
+      {
+        "id": "MiracleForestVIPMix.Rinthlive.0",
+        "name": "Miracle Forest (VIP Mix)",
+        "difficulty": [
+          "3.0",
+          "7.5",
+          "13.1",
+          "0"
+        ]
+      },
+      {
+        "id": "MOBILYS.Dachs.0",
+        "name": "MOBILYS",
+        "difficulty": [
+          "5.5",
+          "9.3",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Lyrith迷宮リリス.ユメミド.0",
+        "name": "Lyrith -迷宮リリス-",
+        "difficulty": [
+          "5.0",
+          "11.1",
+          "16.1",
+          "16.5",
+          "15.9"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "SideStory2",
+    "title": "\\ChapterSideStory2Title",
+    "sub_title": "\\ChapterSideStory2SubTitle",
+    "cover": "Side story 2",
+    "songs": [
+      {
+        "id": "Demiurge.Rabpit.0",
+        "name": "Demiurge",
+        "difficulty": [
+          "1.5",
+          "7.5",
+          "11.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Demonkin.ForgedReigns.0",
+        "name": "Demonkin",
+        "difficulty": [
+          "4.5",
+          "9.2",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Re_NascencePsystyleVer.Rinth_live.0",
+        "name": "Re_Nascence (Psystyle Ver.) ",
+        "difficulty": [
+          "5.5",
+          "11.7",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "Ark.kanoryo.0",
+        "name": "Ark",
+        "difficulty": [
+          "3.5",
+          "9.5",
+          "15.0",
+          "16.5"
+        ]
+      },
+      {
+        "id": "AfterDawn.S9ryne.0",
+        "name": "After Dawn",
+        "difficulty": [
+          "3.0",
+          "10.4",
+          "15.3",
+          "0"
+        ]
+      },
+      {
+        "id": "INFiNiTEENERZYOverdoze.RekuMochizuki.0",
+        "name": "INFiNiTE ENERZY -Overdoze-",
+        "difficulty": [
+          "6.5",
+          "12.3",
+          "14.8",
+          "16.8"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "SideStory3",
+    "title": "\\ChapterSideStory3Title",
+    "sub_title": "\\ChapterSideStory3SubTitle",
+    "cover": "Side story 3",
+    "songs": [
+      {
+        "id": "Khalid.Dolphin.0",
+        "name": "Khalid",
+        "difficulty": [
+          "4.0",
+          "8.2",
+          "13.1",
+          "0"
+        ]
+      },
+      {
+        "id": "QuantumHyperspace.D_AAN.0",
+        "name": "Quantum Hyperspace",
+        "difficulty": [
+          "6.0",
+          "11.2",
+          "15.0",
+          "0"
+        ]
+      },
+      {
+        "id": "FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0",
+        "name": "Freaky Undulations ~Noble Knights of Tune~",
+        "difficulty": [
+          "7.0",
+          "10.9",
+          "15.3",
+          "0"
+        ]
+      },
+      {
+        "id": "PANICPARADISE.DJSHIONY.0",
+        "name": "PANIC PARADISE",
+        "difficulty": [
+          "6.5",
+          "11.5",
+          "15.4",
+          "16.5"
+        ]
+      },
+      {
+        "id": "ReEndofaDream.umavsモリモリあつし.0",
+        "name": "Re：End of a Dream",
+        "difficulty": [
+          "7.5",
+          "13.0",
+          "15.9",
+          "16.9"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "SideStory4",
+    "title": "\\ChapterSideStory4Title",
+    "sub_title": "\\ChapterSideStory4SubTitle",
+    "cover": "Side story 4",
+    "songs": [
+      {
+        "id": "心の記憶.A39沙包P.0",
+        "name": "心の記憶",
+        "difficulty": [
+          "3.5",
+          "9.1",
+          "13.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Spotlight.Ardolf.0",
+        "name": "Spotlight",
+        "difficulty": [
+          "4.5",
+          "9.9",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "NightTheater.わかどり.0",
+        "name": "NightTheater",
+        "difficulty": [
+          "4.0",
+          "10.6",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Ramification.rareguyReina.0",
+        "name": "Ramification",
+        "difficulty": [
+          "5.0",
+          "10.4",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "DerRichter.Ωμεγα.0",
+        "name": "Der Richter",
+        "difficulty": [
+          "5.5",
+          "11.4",
+          "15.6",
+          "16.9"
+        ]
+      },
+      {
+        "id": "ATHAZA.LeaF.0",
+        "name": "ATHAZA",
+        "difficulty": [
+          "8.6",
+          "12.9",
+          "15.7",
+          "16.6"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Cytus2",
+    "title": "\\ChapterCytus2Title",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "CYTUS II",
+    "songs": [
+      {
+        "id": "TheWholeRest.KIVΛ.0",
+        "name": "The Whole Rest",
+        "difficulty": [
+          "5.0",
+          "9.6",
+          "13.6",
+          "0"
+        ]
+      },
+      {
+        "id": "Cristalisia.onoken.0",
+        "name": "Cristalisia",
+        "difficulty": [
+          "4.0",
+          "10.4",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "Hydra.JamesLandinoXAkiraComplex.0",
+        "name": "Hydra",
+        "difficulty": [
+          "6.0",
+          "11.6",
+          "15.4",
+          "17.1"
+        ]
+      },
+      {
+        "id": "Alb.Avans.0",
+        "name": "Alb",
+        "difficulty": [
+          "3.5",
+          "8.9",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "Incyde.YbeLL.0",
+        "name": "Incyde",
+        "difficulty": [
+          "7.0",
+          "12.1",
+          "16.2",
+          "0"
+        ]
+      },
+      {
+        "id": "彩.MisoilePunch.0",
+        "name": "彩",
+        "difficulty": [
+          "6.0",
+          "12.5",
+          "16.4",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Liminality",
+    "title": "\\ChapterLiminalityTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "Liminality",
+    "songs": [
+      {
+        "id": "Xepion.Acotto.0",
+        "name": "Xep+ion",
+        "difficulty": [
+          "2.5",
+          "9.8",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "Archidoxen.Se_IRA.0",
+        "name": "Archidoxen",
+        "difficulty": [
+          "4.0",
+          "10.0",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "百鬼夜行.SaladSavior.0",
+        "name": "百鬼֎夜行",
+        "difficulty": [
+          "4.5",
+          "10.1",
+          "15.8",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Maimai",
+    "title": "\\ChapterMaimaiTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "maimai",
+    "songs": [
+      {
+        "id": "アンビバレンス.すりぃ相沢.0",
+        "name": "アンビバレンス",
+        "difficulty": [
+          "4.0",
+          "8.7",
+          "14.1",
+          "0"
+        ]
+      },
+      {
+        "id": "Komplexe.雄之助featSennzai.0",
+        "name": "Komplexe",
+        "difficulty": [
+          "3.5",
+          "9.6",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "slips.rintarosoma.0",
+        "name": "sølips",
+        "difficulty": [
+          "7.5",
+          "12.8",
+          "16.0",
+          "16.8"
+        ]
+      },
+      {
+        "id": "QZKagoRequiem.tpazolite.0",
+        "name": "QZKago Requiem",
+        "difficulty": [
+          "7.0",
+          "13.3",
+          "16.3",
+          "17.4"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Ongeki",
+    "title": "\\ChapterOngekiTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "オンゲキ",
+    "songs": [
+      {
+        "id": "Radiance.Nhato.0",
+        "name": "Radiance",
+        "difficulty": [
+          "3.5",
+          "11.9",
+          "14.0",
+          "15.6"
+        ]
+      },
+      {
+        "id": "DiamondDust.MasahiroGodspeedAoki.0",
+        "name": "Diamond Dust",
+        "difficulty": [
+          "5.0",
+          "10.8",
+          "15.3",
+          "16.7"
+        ]
+      },
+      {
+        "id": "StardustRAY.kanonevsBlackY.0",
+        "name": "Stardust:RAY",
+        "difficulty": [
+          "6.0",
+          "12.3",
+          "16.5",
+          "17.2"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ImmaculeeSekai",
+    "title": "\\ChapterImmaculeeSekaiTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "Immaculée Sekai",
+    "songs": [
+      {
+        "id": "AphroditesChildshortver.RUQOA.0",
+        "name": "Aphrodite's Child (short ver.)",
+        "difficulty": [
+          "3.5",
+          "8.1",
+          "13.3",
+          "0"
+        ]
+      },
+      {
+        "id": "DevIAtiOnshortver.polysha.0",
+        "name": "DevIAtiOn (short ver.)",
+        "difficulty": [
+          "5.0",
+          "11.1",
+          "15.7",
+          "0"
+        ]
+      },
+      {
+        "id": "NOx.Juggernaut.0",
+        "name": "NO x",
+        "difficulty": [
+          "4.5",
+          "10.3",
+          "16.1",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "EGTS",
+    "title": "\\ChapterEGTSTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "EGTS",
+    "songs": [
+      {
+        "id": "SilenceisGoldenSpeechisGolden.NIWASHI.0",
+        "name": "Silence is Golden, Speech is Golden",
+        "difficulty": [
+          "5.0",
+          "9.3",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "FracturedAngel.DJRaisei.0",
+        "name": "Fractured Angel",
+        "difficulty": [
+          "4.0",
+          "10.9",
+          "16.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Resolver.Gomadare.0",
+        "name": "Resolver",
+        "difficulty": [
+          "3.0",
+          "8.4",
+          "14.4",
+          "0"
+        ]
+      },
+      {
+        "id": "LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0",
+        "name": "Luminous Entities Lost Heart",
+        "difficulty": [
+          "5.0",
+          "10.7",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "KIZUNAResolution.TAG.0",
+        "name": "KIZUNA Resolution",
+        "difficulty": [
+          "8.0",
+          "13.4",
+          "16.4",
+          "0"
+        ]
+      },
+      {
+        "id": "AbsoluTedisoRdeR.AcuteDisarray.0",
+        "name": "AbsoluTe disoRdeR",
+        "difficulty": [
+          "6.5",
+          "12.4",
+          "16.3",
+          "17.2"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "RhythmMaster",
+    "title": "\\ChapterRhythmMasterTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "节奏大师",
+    "songs": [
+      {
+        "id": "君往何处QuoVadis.M2U.0",
+        "name": "君往何处 (Quo Vadis)",
+        "difficulty": [
+          "4.0",
+          "8.6",
+          "14.1",
+          "0"
+        ]
+      },
+      {
+        "id": "暗夜苏醒REANIMATE.Warak.0",
+        "name": "暗夜苏醒 (REANIMATE)",
+        "difficulty": [
+          "5.0",
+          "12.8",
+          "15.3",
+          "0"
+        ]
+      },
+      {
+        "id": "黄金之城GOLDTOWN.Memme.0",
+        "name": "黄金之城 (GOLD TOWN)",
+        "difficulty": [
+          "2.0",
+          "10.2",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "双重间谍DoubleAgent.WAVAV.0",
+        "name": "双重间谍 (Double Agent)",
+        "difficulty": [
+          "4.5",
+          "11.8",
+          "15.7",
+          "0"
+        ]
+      },
+      {
+        "id": "幻影鬼魅PLEASE.R300K.0",
+        "name": "幻影鬼魅 (PLEASE)",
+        "difficulty": [
+          "5.5",
+          "9.6",
+          "15.2",
+          "17.0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "TAKUMI3",
+    "title": "\\ChapterTAKUMI3Title",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "TAKUMI³",
+    "songs": [
+      {
+        "id": "Cuvism.Fl00tvsHalv.0",
+        "name": "Cuvism³",
+        "difficulty": [
+          "3.0",
+          "12.2",
+          "13.9",
+          "16.7"
+        ]
+      },
+      {
+        "id": "iLArtifact.Link0.0",
+        "name": "iL-Artifact",
+        "difficulty": [
+          "5.5",
+          "10.5",
+          "15.7",
+          "0"
+        ]
+      },
+      {
+        "id": "atruthseekerCommunicationwithUtopiawillbelost.kuro.0",
+        "name": "a truth seeker -Communication with Utopia will be lost-",
+        "difficulty": [
+          "6.5",
+          "12.4",
+          "15.8",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "SHINOBISLASH",
+    "title": "\\ChapterSHINOBISLASHTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "SHINOBI SLASH",
+    "songs": [
+      {
+        "id": "幽世桔梗.Capchiifeatまるもこ.0",
+        "name": "幽世桔梗",
+        "difficulty": [
+          "4.5",
+          "10.1",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "千紫万紅.r0yvsWABI.0",
+        "name": "千紫万紅",
+        "difficulty": [
+          "4.5",
+          "12.1",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "明鏡烈火.MUEvsRekuMochizuki.0",
+        "name": "明鏡烈火",
+        "difficulty": [
+          "6.0",
+          "11.1",
+          "15.9",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ParadigmReboot",
+    "title": "\\ChapterParadigmRebootTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "Paradigm: Reboot",
+    "songs": [
+      {
+        "id": "零號車輛.seatrus.0",
+        "name": "零號車輛",
+        "difficulty": [
+          "7.5",
+          "12.1",
+          "16.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Xenolith.Tatsh.0",
+        "name": "Xenolith",
+        "difficulty": [
+          "4.0",
+          "8.5",
+          "14.2",
+          "0"
+        ]
+      },
+      {
+        "id": "ArtificialExistence.JunKuroda.0",
+        "name": "Artificial Existence",
+        "difficulty": [
+          "3.5",
+          "9.3",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "IndelibleScar.Noah.0",
+        "name": "Indelible Scar",
+        "difficulty": [
+          "7.0",
+          "11.5",
+          "15.3",
+          "16.5"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "CHUNITHM",
+    "title": "\\ChapterCHUNITHMTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "CHUNITHM",
+    "songs": [
+      {
+        "id": "月詠に鳴る.Feryquitousfeat藍月なくる.0",
+        "name": "月詠に鳴る",
+        "difficulty": [
+          "6.0",
+          "11.4",
+          "14.5",
+          "15.7"
+        ]
+      },
+      {
+        "id": "TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0",
+        "name": "TECHNOPOLIS 2085",
+        "difficulty": [
+          "5.0",
+          "10.2",
+          "14.1",
+          "15.9"
+        ]
+      },
+      {
+        "id": "祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0",
+        "name": "祈 -我ら神祖と共に歩む者なり-",
+        "difficulty": [
+          "7.0",
+          "13.2",
+          "16.4",
+          "17.3"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Rotaeno",
+    "title": "\\ChapterRotaenoTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "Rotaeno",
+    "songs": [
+      {
+        "id": "JourneywithYou.Iris.0",
+        "name": "Journey with You",
+        "difficulty": [
+          "5.0",
+          "10.0",
+          "13.7",
+          "0"
+        ]
+      },
+      {
+        "id": "SecretIllumination.Yooh.0",
+        "name": "Secret Illumination",
+        "difficulty": [
+          "5.0",
+          "10.2",
+          "14.7",
+          "0"
+        ]
+      },
+      {
+        "id": "InvertedWorld.ARForest.0",
+        "name": "Inverted World",
+        "difficulty": [
+          "5.5",
+          "11.2",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "ストレイソウルアラウンド.みーに.0",
+        "name": "ストレイソウル・アラウンド",
+        "difficulty": [
+          "6.0",
+          "9.8",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "ManifoldHypothesis.cybermisofeattigerlily.0",
+        "name": "Manifold Hypothesis",
+        "difficulty": [
+          "4.0",
+          "9.1",
+          "14.6",
+          "0"
+        ]
+      },
+      {
+        "id": "KMoeVIP.ZxNX.0",
+        "name": "K.Moe (VIP)",
+        "difficulty": [
+          "3.0",
+          "8.4",
+          "15.9",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Camellia",
+    "title": "\\ChapterCamelliaTitle",
+    "sub_title": "\\ChapterCamelliaSubTitle",
+    "cover": "かめりあ",
+    "songs": [
+      {
+        "id": "SATELLITE.かめりあ.0",
+        "name": "S.A.T.E.L.L.I.T.E.",
+        "difficulty": [
+          "5.0",
+          "9.9",
+          "14.3",
+          "16.2"
+        ]
+      },
+      {
+        "id": "DancewithSilence.かめりあ.0",
+        "name": "Dance with Silence",
+        "difficulty": [
+          "7.0",
+          "10.9",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "LabyrinthinKowloonWalledWorld.かめりあ.0",
+        "name": "Labyrinth in Kowloon: Walled World",
+        "difficulty": [
+          "6.0",
+          "11.4",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0",
+        "name": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+        "difficulty": [
+          "5.5",
+          "10.6",
+          "15.8",
+          "0"
+        ]
+      },
+      {
+        "id": "ERABYECONNEC10N.かめりあ.0",
+        "name": "+ERABY+E CONNEC+10N",
+        "difficulty": [
+          "5.5",
+          "11.6",
+          "16.3",
+          "17.3"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "OverRapid",
+    "title": "\\ChapterOverRapidTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "OverRapid",
+    "songs": [
+      {
+        "id": "神話.PicaM2U.0",
+        "name": "神話",
+        "difficulty": [
+          "4.0",
+          "8.7",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Elúltimobaile.Θ.0",
+        "name": "El último baile",
+        "difficulty": [
+          "4.5",
+          "9.5",
+          "14.1",
+          "0"
+        ]
+      },
+      {
+        "id": "Trojan.litmus.0",
+        "name": "Trojan",
+        "difficulty": [
+          "5.5",
+          "10.8",
+          "15.0",
+          "0"
+        ]
+      },
+      {
+        "id": "TemporalShifting.LureRabbitVC.0",
+        "name": "Temporal Shifting",
+        "difficulty": [
+          "4.0",
+          "11.5",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "Adastraperaspera.RabbitHouse.0",
+        "name": "Ad astra per aspera",
+        "difficulty": [
+          "6.5",
+          "12.1",
+          "16.3",
+          "0"
+        ]
+      },
+      {
+        "id": "Ajourneytothemoonlight.Yesod.0",
+        "name": "A journey to the moonlight",
+        "difficulty": [
+          "4.5",
+          "10.7",
+          "14.5",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "TEA12",
+    "title": "\\ChapterTEA12Title",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "茶鸣拾贰律",
+    "songs": [
+      {
+        "id": "盏茗.茶鸣拾贰律.0",
+        "name": "盏茗",
+        "difficulty": [
+          "1.5",
+          "4.5",
+          "13.4",
+          "0"
+        ]
+      },
+      {
+        "id": "青芽.茶鸣拾贰律.0",
+        "name": "青芽",
+        "difficulty": [
+          "5.0",
+          "10.4",
+          "15.2",
+          "0"
+        ]
+      },
+      {
+        "id": "瓷岁.茶鸣拾贰律.0",
+        "name": "瓷岁",
+        "difficulty": [
+          "2.0",
+          "6.5",
+          "7.0",
+          "0"
+        ]
+      },
+      {
+        "id": "Feast远东之宴.茶鸣拾贰律.0",
+        "name": "Feast远东之宴",
+        "difficulty": [
+          "6.5",
+          "12.1",
+          "15.5",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "JMT",
+    "title": "\\ChapterJMTTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "姜米條",
+    "songs": [
+      {
+        "id": "Shadow.SumaiLightvs姜米條.0",
+        "name": "Shadow",
+        "difficulty": [
+          "6.5",
+          "10.5",
+          "14.6",
+          "16.2"
+        ]
+      },
+      {
+        "id": "心之所向.姜米條.0",
+        "name": "心之所向",
+        "difficulty": [
+          "4.0",
+          "8.2",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "inferior.姜米條.0",
+        "name": "inferior",
+        "difficulty": [
+          "7.0",
+          "7.5",
+          "14.6",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Lanota",
+    "title": "\\ChapterLanotaTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "Lanota",
+    "songs": [
+      {
+        "id": "Apocalypse.アリスシャッハと魔法の楽団.0",
+        "name": "Apocalypse",
+        "difficulty": [
+          "4.0",
+          "8.6",
+          "13.5",
+          "0"
+        ]
+      },
+      {
+        "id": "Protoflicker.Silentroom.0",
+        "name": "Protoflicker",
+        "difficulty": [
+          "3.5",
+          "9.7",
+          "15.4",
+          "0"
+        ]
+      },
+      {
+        "id": "HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0",
+        "name": "Horizon Blue",
+        "difficulty": [
+          "6.5",
+          "11.6",
+          "15.7",
+          "0"
+        ]
+      },
+      {
+        "id": "YouaretheMiserable.tpazolite.0",
+        "name": "You are the Miserable",
+        "difficulty": [
+          "6.0",
+          "11.7",
+          "14.1",
+          "15.8"
+        ]
+      },
+      {
+        "id": "Stasis.Maozon.0",
+        "name": "Stasis",
+        "difficulty": [
+          "5.0",
+          "10.1",
+          "15.3",
+          "16.7"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "KALPA",
+    "title": "\\ChapterKALPATitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "KALPA",
+    "songs": [
+      {
+        "id": "TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0",
+        "name": "Time to Night Sky (feat. Lee Yu Jin)",
+        "difficulty": [
+          "3.0",
+          "10.1",
+          "13.6",
+          "0"
+        ]
+      },
+      {
+        "id": "HAZARD.Limpid.0",
+        "name": "HAZARD",
+        "difficulty": [
+          "4.5",
+          "11.0",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "AnotherMe.DAAN.0",
+        "name": "Another Me",
+        "difficulty": [
+          "5.0",
+          "9.8",
+          "15.6",
+          "0"
+        ]
+      },
+      {
+        "id": "DontNeverAround.HAMA.0",
+        "name": "Don't Never Around",
+        "difficulty": [
+          "5.0",
+          "11.3",
+          "15.5",
+          "0"
+        ]
+      },
+      {
+        "id": "RESSiSTANCE.ぐるたみん.0",
+        "name": "RESSiSTANCE",
+        "difficulty": [
+          "6.5",
+          "11.2",
+          "16.1",
+          "0"
+        ]
+      },
+      {
+        "id": "FlutterEcho.Cansol.0",
+        "name": "Flutter Echo",
+        "difficulty": [
+          "3.5",
+          "9.8",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "Rebirth.ああああ.0",
+        "name": "Re：birth",
+        "difficulty": [
+          "6.0",
+          "12.0",
+          "15.4",
+          "0"
+        ]
+      },
+      {
+        "id": "AvataarReincarnationofKalpa.ScarletteakaCrYmson.0",
+        "name": "Avataar ~Reincarnation of Kalpa~",
+        "difficulty": [
+          "2.0",
+          "8.2",
+          "13.4",
+          "16.6"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "MUSEDASH",
+    "title": "\\ChapterMuseDashTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "Muse Dash",
+    "songs": [
+      {
+        "id": "XING.ginkiha.0",
+        "name": "XING",
+        "difficulty": [
+          "5.5",
+          "9.9",
+          "13.9",
+          "0"
+        ]
+      },
+      {
+        "id": "FinalStep.Lime.0",
+        "name": "Final Step!",
+        "difficulty": [
+          "5.5",
+          "11.0",
+          "14.1",
+          "0"
+        ]
+      },
+      {
+        "id": "Cthugha.USAO.0",
+        "name": "Cthugha",
+        "difficulty": [
+          "6.0",
+          "10.4",
+          "16.0",
+          "16.1"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "WAVEAT",
+    "title": "\\ChapterWaveatTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "WAVEAT",
+    "songs": [
+      {
+        "id": "Initialize.iF.0",
+        "name": "Initialize",
+        "difficulty": [
+          "2.5",
+          "7.0",
+          "11.6",
+          "0"
+        ]
+      },
+      {
+        "id": "桜樹街道.kozatosnow.0",
+        "name": "桜樹街道",
+        "difficulty": [
+          "3.5",
+          "8.1",
+          "13.0",
+          "0"
+        ]
+      },
+      {
+        "id": "GetReady.iF.0",
+        "name": "Get Ready!! ",
+        "difficulty": [
+          "6.0",
+          "10.7",
+          "13.8",
+          "0"
+        ]
+      },
+      {
+        "id": "volcanic.DETROakaルゼ.0",
+        "name": "volcanic",
+        "difficulty": [
+          "7.5",
+          "12.1",
+          "14.7",
+          "16.6"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "Good",
+    "title": "\\ChapterGoodTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "GOOD",
+    "songs": [
+      {
+        "id": "GOODTEK.EBIMAYO.0",
+        "name": "GOODTEK",
+        "difficulty": [
+          "5.0",
+          "10.0",
+          "14.3",
+          "0"
+        ]
+      },
+      {
+        "id": "GOODBOUNCE.EBIMAYO.0",
+        "name": "GOODBOUNCE",
+        "difficulty": [
+          "7.5",
+          "11.9",
+          "14.5",
+          "0"
+        ]
+      },
+      {
+        "id": "GOODWORLD.EBIMAYO.0",
+        "name": "GOODWORLD",
+        "difficulty": [
+          "3.0",
+          "11.4",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "GOODFORTUNE.EBIMAYO.0",
+        "name": "GOODFORTUNE",
+        "difficulty": [
+          "7.5",
+          "8.7",
+          "15.7",
+          "0"
+        ]
+      },
+      {
+        "id": "GOODRAGE.EBIMAYO.0",
+        "name": "GOODRAGE",
+        "difficulty": [
+          "5.0",
+          "8.5",
+          "16.0",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "HyuN",
+    "title": "\\ChapterHyunTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "HyuN",
+    "songs": [
+      {
+        "id": "InfinityHeaven.HyuN.0",
+        "name": "Infinity Heaven",
+        "difficulty": [
+          "3.0",
+          "8.4",
+          "13.9",
+          "0"
+        ]
+      },
+      {
+        "id": "Disorder.HyuNfeatYURI.0",
+        "name": "Disorder",
+        "difficulty": [
+          "6.0",
+          "10.3",
+          "14.8",
+          "0"
+        ]
+      },
+      {
+        "id": "CROSSSOUL.HyuNfeatSyepias.0",
+        "name": "CROSS†SOUL",
+        "difficulty": [
+          "7.5",
+          "12.6",
+          "16.4",
+          "0"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "RST",
+    "title": "\\ChapterRSTTitle",
+    "sub_title": "\\ChapterExtraSubTitle",
+    "cover": "Rising Sun Traxx",
+    "songs": [
+      {
+        "id": "AnotherMe.NeutralMoon.0",
+        "name": "Another Me",
+        "difficulty": [
+          "5.5",
+          "9.3",
+          "13.6",
+          "0"
+        ]
+      },
+      {
+        "id": "mechanted.rareguy.0",
+        "name": "mechanted",
+        "difficulty": [
+          "3.0",
+          "11.3",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "lifeflashesbeforeweebeyes.BilliumMoto.0",
+        "name": "life flashes before weeb eyes",
+        "difficulty": [
+          "6.5",
+          "11.9",
+          "14.9",
+          "0"
+        ]
+      },
+      {
+        "id": "BreakThroughTheBarrier.lixound.0",
+        "name": "Break Through The Barrier",
+        "difficulty": [
+          "5.5",
+          "9.5",
+          "14.5",
+          "0",
+          "15.0"
+        ]
+      },
+      {
+        "id": "Chronostasis.黒皇帝.0",
+        "name": "Chronostasis",
+        "difficulty": [
+          "6.0",
+          "10.7",
+          "16.0",
+          "0"
+        ]
+      }
+    ]
+  }
+]

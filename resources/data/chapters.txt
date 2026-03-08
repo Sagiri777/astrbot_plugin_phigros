@@ -1,0 +1,831 @@
+============================================================
+📁 章节代码: Single
+📌 标题: \ChapterSingleTitle
+🖼️ 封面: Single
+🎵 包含 134 首歌曲:
+  1. Verrückt (ID: Verruckt.Raimukun.0)
+     难度: 7.0/12.6/16.5/0
+  2. Xenophobia (ID: Xenophobia.XinG.0)
+     难度: 6.5/12.7/14.9/0
+  3. ABYSS MOTION 192.333 (ID: ABYSSMOTION192333.ariiolTSAR奏Sou.0)
+     难度: 4.0/9.8/14.7/0
+  4. 彼方へ、名もなき海辺より (ID: 彼方へ名もなき海辺より.打打だいず&月乃.0)
+     难度: 3.5/8.1/14.5/0
+  5. Locomotive (ID: Locomotive.K.0)
+     难度: 4.0/9.7/13.5/0
+  6. 最高傑作 (ID: 最高傑作.PYKAMIA.0)
+     难度: 4.5/9.3/13.9/0
+  7. BANGING STRIKE (ID: BANGINGSTRIKE.DewPleiades.0)
+     难度: 5.0/10.2/15.9/16.8
+  8. 000 -Ain Soph Aur- (ID: 000AinSophAur.Yumeji.0)
+     难度: 2.5/8.4/14.4/0
+  9. So laggy! (feat. Uzumaki) (ID: SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0)
+     难度: 5.0/9.5/14.6/0
+  10. Retribution ~ Cycle of Redemption ~  (ID: RetributionCycleofRedemption.ArdolfvsDaily天利.0)
+     难度: 6.0/11.3/16.2/0
+  11. 雪降り ~雪が降っている~ (ID: 雪降り雪が降っている.AiSSw夜輪ft結月ゆかり.0)
+     难度: 1.5/7.5/12.0/14.0
+  12. Helios (ID: Helios.NOABotaNya.0)
+     难度: 5.5/9.0/14.2/0
+  13. Frozen Heart (ID: FrozenHeart.A39沙包P.0)
+     难度: 5.0/10.6/14.6/0
+  14. Alice in a xxxxxxxx (ID: Aliceinaxxxxxxxx.Nagiha.0)
+     难度: 5.0/9.5/15.8/0
+  15. 宇宙残骸少女 (Cosmic Dusty Girl) (ID: 宇宙残骸少女CosmicDustyGirl.辻原一郎.0)
+     难度: 6.0/10.2/13.7/0
+  16. Swing Skip Drop (ID: SwingSkipDrop.ミハイル.0)
+     难度: 4.5/9.1/15.5/0
+  17. ニライカナイ (NiraicA_nai Mix) (ID: ニライカナイNiraicA_naiMix.roopfromSTR.0)
+     难度: 3.0/8.3/13.5/0
+  18. インマイマインド (ID: インマイマインド.レシオP.0)
+     难度: 1.5/9.2/12.2/0
+  19. 贝多芬祝福 (Beethoven Blessing) (ID: 贝多芬祝福BeethovenBlessing.Nauts.0)
+     难度: 4.5/10.3/15.0/0
+  20. 蝎虎天体 -Lacertid- (ID: 蝎虎天体Lacertid.CreamvsDaily天利.0)
+     难度: 4.5/10.8/15.5/0
+  21. Shelter (ID: Shelter.MeatyRabbitNceS.0)
+     难度: 3.5/8.8/13.2/0
+  22. Kirakira Noel Story!! (ID: KirakiraNoelStory.RekuMochizuki.0)
+     难度: 4.0/10.2/14.2/0
+  23. Devotion (ID: Devotion.Connexio.0)
+     难度: 4.5/9.6/13.7/0
+  24. 白と黒のバケモノ (ID: 白と黒のバケモノ.テヅカ.0)
+     难度: 4.0/11.4/15.9/0
+  25. Comet (ID: CometFeat符白牙.CNHKSS.0)
+     难度: 3.0/10.5/13.7/0
+  26. valor/starcross (ID: valorstarcross.LundyvsWyvren.0)
+     难度: 6.5/12.7/15.8/0
+  27. Fixations Toward the Stars (ID: FixationsTowardtheStars.Foodbot.0)
+     难度: 3.5/10.9/14.5/0
+  28. Le temps perdu (ID: Letempsperdu.Daison.0)
+     难度: 4.0/9.0/12.5/0
+  29. Schadenfreude (ID: Schadenfreude.ZxNX.0)
+     难度: 4.5/10.6/15.1/0
+  30. Originally (ID: Originally.SNKSMizku.0)
+     难度: 1.0/9.3/14.5/0
+  31. Thrash force (ID: Thrashforce.KAHvsE0ri4.0)
+     难度: 4.5/10.7/15.3/0
+  32. Grimheart (ID: Grimheart.Puru.0)
+     难度: 3.0/8.9/13.8/0
+  33. Bounded Quietude (ID: BoundedQuietude.FiniteLimitvsSiLiS.0)
+     难度: 7.0/7.5/16.2/0
+  34. 今天不是明天 (ID: 今天不是明天.PIKASONICfeat兰音Reine.0)
+     难度: 2.5/8.3/13.4/0
+  35. Bloom (ID: Bloom.targ麻团qwq.0)
+     难度: 3.5/11.2/14.9/0
+  36. Shine After (ID: ShineAfter.ADeanJocularACE.0)
+     难度: 4.0/9.7/14.6/0
+  37. PRAGMATISM -RESURRECTION- (ID: PRAGMATISMRESURRECTION.Laur.0)
+     难度: 7.5/12.9/16.0/16.6
+  38. Antithese (ID: Antithese.Blacklolita.0)
+     难度: 4.5/10.8/15.4/16.4
+  39. BRAIN HACKER (ID: BRAINHACKER.SOMON.0)
+     难度: 4.5/9.3/14.8/0
+  40. Broken Sky (ID: BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0)
+     难度: 3.0/8.6/13.2/0
+  41. Crush BETA (ID: CrushBETA.shadow_bling.0)
+     难度: 4.0/10.5/15.1/0
+  42. G.V.N. (Glitter,Vomitus and Neon) (ID: GVNGlitterVomitusandNeon.SaltySaltUnfold33.0)
+     难度: 5.0/9.7/15.8/0
+  43. 聖夜讃歌 (ID: 聖夜讃歌.A39沙包P.0)
+     难度: 4.5/10.1/15.2/0
+  44. bye (ID: bye.DingerBox.0)
+     难度: 4.0/9.1/14.8/0
+  45. Bitterblossom (ID: Bitterblossom.imvi.0)
+     难度: 2.5/9.5/13.5/0
+  46. Diamond Eyes (ID: DiamondEyes.SYNTHETIC.0)
+     难度: 3.5/6.5/13.4/0
+  47. Triumph & Regret (ID: TriumphRegret.typeMARS.0)
+     难度: 5.0/10.0/15.0/0
+  48. ぱぴぷぴぷぴぱ (ID: ぱぴぷぴぷぴぱ.ころねぽちWith立秋.0)
+     难度: 5.0/12.3/15.9/0
+  49. Realms (ID: Realms.HinkikAHimitsu.0)
+     难度: 3.5/10.2/13.8/0
+  50. Rainy Heart (ID: RainyHeart.BelieverInYou阿卡姆巫师.0)
+     难度: 4.0/9.4/12.9/0
+  51. Now Is The Time, Do It (ID: NowIsTheTimeDoIt.RoyMikelate.0)
+     难度: 4.5/11.2/14.3/0
+  52. Bougainvillea (ID: Bougainvillea.Jade.0)
+     难度: 4.0/8.3/13.2/0
+  53. Random (ID: Random.SobremSilentroom.0)
+     难度: 5.5/12.2/14.7/0
+  54. Poison AND÷OR Affection (ID: PoisonANDORAffection.LeaF.0)
+     难度: 3.5/9.9/15.7/0
+  55. Upshift (ID: Upshift.Iriss-Frantzz.0)
+     难度: 6.0/10.8/15.5/0
+  56. インフェルノシティ (ID: インフェルノシティ.Ponchifeatはぁち.0)
+     难度: 4.5/11.5/15.7/0
+  57. 青丘 (ID: 青丘.BLACK0.0)
+     难度: 5.5/10.5/15.5/0
+  58. Pont des souvenirs (ID: Pontdessouvenirs.VeetaCrushvsitsufeatitsu.0)
+     难度: 5.5/10.7/15.3/0
+  59. Believe Light (feat. 果丸哒呦) (ID: BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0)
+     难度: 2.5/8.9/14.6/0
+  60. Break Over (ID: BreakOver.Kforest.0)
+     难度: 5.0/11.5/14.1/14.9
+  61. El Condor Pasa (Phigros Edit) (ID: ElCondorPasaPhigrosEdit.PlasticFruits.0)
+     难度: 6.5/12.5/15.6/0
+  62. Rainy Season (ID: RainySeason.AbyssIdols.0)
+     难度: 5.5/10.7/14.2/0
+  63. Eternal Snow (ID: EternalSnow.AbyssIdols.0)
+     难度: 4.0/9.6/13.5/0
+  64. Brave Notes (ID: BraveNotes.TurquoiseDRIVENota.0)
+     难度: 5.5/11.4/14.6/0
+  65. c.s.q.n. (ID: csqn.Aoi.0)
+     难度: 5.0/12.2/15.9/0
+  66. DataErr0r (ID: DataErr0r.Cosmograph.0)
+     难度: 6.0/11.8/14.5/0
+  67. On And On!! (ID: OnAndOn.ETIAfeatJenga.0)
+     难度: 5.0/9.6/15.2/0
+  68. 月下缭乱 (ID: 月下缭乱.月見静華vsLUNARiUM.0)
+     难度: 4.5/9.4/14.9/0
+  69. いざ、参ります (ID: いざ参ります.Uskefeat棗いつき.0)
+     难度: 3.5/9.2/15.0/0
+  70. opia (ID: opia.rN.0)
+     难度: 5.5/10.6/15.6/0
+  71. I Must Say No (ID: IMustSayNo.TangJuan.0)
+     难度: 1.5/9.2/13.5/0
+  72. FULi AUTO BUSTER (ID: FULiAUTOBUSTER.MYUKKE.0)
+     难度: 3.5/9.7/14.6/0
+  73. Luminescent (ID: Luminescent.Daison.0)
+     难度: 5.5/9.7/14.4/0
+  74. Future Mind (ID: FutureMind.RayNauticaRekuMochizuki.0)
+     难度: 4.5/11.0/14.2/0
+  75. 996 (ID: 996.李化禹.0)
+     难度: 4.0/9.4/14.7/0
+  76. Another Round (ID: AnotherRound.JustinDai.0)
+     难度: 2.5/9.6/13.3/0
+  77. Dreamland (ID: Dreamland.z1onkyrrin.0)
+     难度: 7.0/10.3/13.6/0
+  78. ジングルベル(Jingle Bell) (ID: ジングルベルJingleBell.A39沙包P.0)
+     难度: 4.5/8.5/14.5/0
+  79. Concvssion (ID: Concvssion.Halv.0)
+     难度: 6.0/11.3/15.6/0
+  80. ρars/ey (ID: parsey.siqlo.0)
+     难度: 4.0/11.7/14.6/0
+  81. Kerberos (ID: Kerberos.Zris.0)
+     难度: 5.5/12.4/15.8/0
+  82. -Arkhei- (ID: Arkhei.SeraAmagi.0)
+     难度: 7.5/8.8/12.6/0
+  83. Nhelv (ID: Nhelv.Silentroom.0)
+     难度: 1.5/12.0/15.6/0
+  84. energy trixxx (ID: energytrixxx.KAH.0)
+     难度: 5.0/10.4/15.4/0
+  85. 游园地 (ID: 游园地.椒盐菠萝.0)
+     难度: 2.5/7.5/13.2/0
+  86. Apocalyptic (ID: Apocalyptic.ZClaxxSumaiLight.0)
+     难度: 3.0/10.4/13.8/0
+  87. Unorthodox Thoughts (ID: UnorthodoxThoughts.Joulez.0)
+     难度: 5.5/12.0/13.9/0
+  88. With You (ID: WithYou.Cashew.0)
+     难度: 3.5/9.1/13.5/0
+  89. Better Graphic Animation (ID: BetterGraphicAnimation.ルゼ.0)
+     难度: 6.0/11.1/15.3/0
+  90. Eltaw (ID: Eltaw.Fl00t.0)
+     难度: 7.0/10.6/14.8/0
+  91. 大和撫子 -Wild Dances- (ID: 大和撫子WildDances.adapatorvsDRIVE.0)
+     难度: 5.5/11.8/15.1/0
+  92. Wavetapper (ID: Wavetapper.Frums.0)
+     难度: 6.0/9.4/13.9/0
+  93. modulus (ID: modulus.PTB10.0)
+     难度: 4.5/10.4/14.9/0
+  94. Cervelle Connexion (ID: CervelleConnexion.SCTL.0)
+     难度: 5.0/11.3/14.5/0
+  95. 雪降り、メリクリ (ID: 雪降りメリクリ.A39.0)
+     难度: 4.5/10.8/15.4/0
+  96. Träne (ID: Trane.MALVA.0)
+     难度: 1.5/7.0/14.2/0
+  97. Äventyr (ID: Aventyr.GrandThawRigelTheatre.0)
+     难度: 3.5/9.9/13.7/0
+  98. Hardcore Kwaya (ID: HardcoreKwaya.EnFr.0)
+     难度: 4.5/8.4/14.6/0
+  99. SIGMA (ID: SIGMA.Kryexe.0)
+     难度: 5.0/10.5/15.8/0
+  100. Electron (ID: Electron.ElousFZ.0)
+     难度: 3.5/9.4/13.2/0
+  101. Starduster (ID: Starduster.Quree.0)
+     难度: 5.5/11.4/15.2/0
+  102. Parallel Retrogression(Game Ver.) (ID: ParallelRetrogressionGameVer.Tetrajectory.0)
+     难度: 7.0/10.9/14.2/0
+  103. End Me (ID: EndMe.ZxNXasDelaina.0)
+     难度: 5.5/7.5/14.2/0
+  104. Orthodox (ID: Orthodox.tokiwa.0)
+     难度: 4.5/8.5/13.7/0
+  105. The Mountain Eater (ID: TheMountainEater.PaulBazooka.0)
+     难度: 5.5/9.6/14.8/0
+  106. Palescreen (ID: Palescreen.WyvernPfeatMadol.0)
+     难度: 5.5/12.3/15.9/0
+  107. Get Back (ID: GetBack.CAP3.0)
+     难度: 6.5/10.7/14.1/0
+  108. Magenta Potion (ID: MagentaPotion.EmoCo.0)
+     难度: 6.5/11.3/14.4/0
+  109. Speed Up! (ID: SpeedUp.DarTokki.0)
+     难度: 4.5/10.3/14.0/0
+  110. Dead Soul (ID: DeadSoul.SoundSouler.0)
+     难度: 4.5/12.3/14.4/0
+  111. Rubbish Sorting (ID: RubbishSorting.CtymaxvsNceS.0)
+     难度: 3.5/9.4/13.1/0
+  112. Next Time (ID: NextTime.SaMZIng.0)
+     难度: 6.0/8.7/12.4/0
+  113. Aleph-0 (ID: Aleph0.LeaF.0)
+     难度: 3.5/12.2/16.0/0/15.6
+  114. Burn (ID: Burn.NceS.0)
+     难度: 7.0/11.2/15.2/0
+  115. Snow Desert (ID: SnowDesert.WyvernP.0)
+     难度: 5.0/10.3/13.4/0
+  116. Khronostasis Katharsis (ID: KhronostasisKatharsis.Halv.0)
+     难度: 6.0/11.8/14.0/0
+  117. Sparkle New Life (ID: SparkleNewLife.rider.0)
+     难度: 4.0/9.2/12.8/0
+  118. 狂喜蘭舞 (ID: 狂喜蘭舞.LeaF.0)
+     难度: 7.0/11.7/14.3/16.4
+  119. Sein (ID: Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0)
+     难度: 5.0/10.1/15.1/0
+  120. Find_Me (ID: FindMe.Kforest.0)
+     难度: 5.5/10.5/14.3/0
+  121. 華灯爱 (ID: 華灯爱.闫东炜.0)
+     难度: 6.0/10.6/13.7/0
+  122. 开心病 (ID: 开心病.闫东炜.0)
+     难度: 7.0/11.9/13.8/0
+  123. Aphasia (ID: Aphasia.闫东炜.0)
+     难度: 4.0/8.8/13.3/0
+  124. RIPPER (ID: RIPPER.Friedwav.0)
+     难度: 6.5/11.7/15.4/0
+  125. Drop It (ID: DropIt.Asuka.0)
+     难度: 4.0/9.2/14.2/0
+  126. 云女孩 (ID: 云女孩.符白牙SiYFics.0)
+     难度: 2.0/8.9/12.8/0
+  127. Dash (ID: Dash.小红Akane李祥辉.0)
+     难度: 2.5/5.5/9.7/0
+  128. dB doll (ID: dBdoll.YUESTEVENuen.0)
+     难度: 1.5/3.5/8.3/13.6
+  129. 风屿 (ID: 风屿.闫东炜.0)
+     难度: 5.5/9.8/14.0/15.1
+  130. 万吨匿名信 (ID: 万吨匿名信.闫东炜.0)
+     难度: 4.5/9.5/13.3/0
+  131. 萤火虫の怨 (ID: 萤火虫の怨.闫东炜.0)
+     难度: 4.0/9.8/13.0/0
+  132. MARENOL (ID: MARENOL.LeaF.0)
+     难度: 2.0/10.3/13.9/0
+  133. もぺもぺ (ID: もぺもぺ.LeaF.0)
+     难度: 2.0/6.5/11.1/15.4
+  134. Doppelganger (ID: Doppelganger.LeaF.0)
+     难度: 5.0/9.0/15.1/0
+
+============================================================
+📁 章节代码: MainStoryLegacy
+📌 标题: \ChapterLegacyTitle
+🖼️ 封面: Legacy
+🎵 包含 20 首歌曲:
+  1. Glaciaxion (ID: Glaciaxion.SunsetRay.0)
+     难度: 1.0/6.5/12.6/0
+  2. Eradication Catastrophe (ID: EradicationCatastrophe.NceS.0)
+     难度: 3.5/7.5/12.7/0
+  3. Credits (ID: Credits.Frums.0)
+     难度: 4.5/10.4/13.6/15.7
+  4. Dlyrotz (ID: Dlyrotz.Likey.0)
+     难度: 4.0/9.1/13.7/0
+  5. Engine x Start!! (melody mix) (ID: EnginexStartmelodymix.CrossingSound.0)
+     难度: 2.5/8.3/13.0/0
+  6. 光 (ID: 光.姜米條.0)
+     难度: 2.0/7.5/12.4/0
+  7. Winter ↑cube↓ (ID: Wintercube.CtymaxfeatNceS.0)
+     难度: 3.5/8.2/13.3/0
+  8. 混乱-Confusion (ID: 混乱Confusion.OnlyMyBlackScore.0)
+     难度: 4.0/10.0/14.8/0
+  9. Cipher : /2&//<|0 (ID: Cipher20.TetrajectoryfeatCtymax.0)
+     难度: 5.0/10.3/14.4/0
+  10. FULi AUTO SHOOTER (ID: FULiAUTOSHOOTER.MYUKKE.0)
+     难度: 3.0/9.0/14.9/0
+  11. HumaN (ID: HumaN.SOTUI.0)
+     难度: 3.0/8.0/12.9/0
+  12. [PRAW] (ID: PRAW.Bluewind.0)
+     难度: 6.0/10.6/15.1/0
+  13. Cereris (ID: Cereris.SunsetRayNceS.0)
+     难度: 5.5/10.9/14.7/0
+  14. Pixel Rebelz (ID: PixelRebelz.Normal1zer.0)
+     难度: 4.5/9.7/15.3/0
+  15. Non-Melodic Ragez (MUG Edit) (ID: NonMelodicRagezMUGEdit.Normal1zer.0)
+     难度: 5.5/11.6/16.1/0
+  16. Sultan Rage (ID: SultanRage.MonstDeath.0)
+     难度: 4.0/7.0/12.3/0
+  17. Class Memories (ID: ClassMemories.AntistarfeatCtymax.0)
+     难度: 6.0/10.8/13.8/0
+  18. -SURREALISM- (ID: SURREALISM.Itsuki.0)
+     难度: 5.0/9.4/13.4/0
+  19. Bonus Time (ID: BonusTime.MegaloPaleWhite.0)
+     难度: 3.5/9.5/13.8/0
+  20. ENERGY SYNERGY MATRIX (ID: ENERGYSYNERGYMATRIX.Tanchiky.0)
+     难度: 5.5/11.5/14.4/0/14.0
+
+============================================================
+📁 章节代码: MainStory5
+📌 标题: \ChapterMainStory5Title
+📌 副标题: \ChapterMainStory5SubTitle
+🖼️ 封面: Chapter 5
+🎵 包含 7 首歌曲:
+  1. NYA!!! (Phigros ver.) (ID: NYA.FLuoRiTe姜米條.0)
+     难度: 2.0/8.6/13.1/0
+  2. JunXion Between Life And Death(VIP Mix) (ID: JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0)
+     难度: 3.0/8.7/13.4/0
+  3. cryout (ID: cryout.JuE.0)
+     难度: 3.5/9.9/13.6/0
+  4. Reimei (ID: Reimei.影虎.0)
+     难度: 6.5/11.7/15.1/0
+  5. 尊師 ～The Guru～ (ID: 尊師TheGuru.rider.0)
+     难度: 6.0/11.6/15.4/0
+  6. Spasmodic (ID: Spasmodic.姜米條颶風元力上人.0)
+     难度: 8.2/13.3/15.5/16.7
+  7. Leave All Behind (ID: LeaveAllBehind.rider.0)
+     难度: 3.0/8.9/12.7/0
+
+============================================================
+📁 章节代码: MainStory6
+📌 标题: \ChapterMainStory6Title
+📌 副标题: \ChapterMainStory6SubTitle
+🖼️ 封面: Chapter 6
+🎵 包含 6 首歌曲:
+  1. Colorful Days♪ (ID: ColorfulDays.P4koofeatつゆり花鈴.0)
+     难度: 5.0/7.0/12.6/0
+  2. micro.wav (ID: microwav.dandeless.0)
+     难度: 6.0/10.5/14.7/0
+  3. 重生 (ID: 重生.姜米條.0)
+     难度: 4.5/8.8/14.3/0
+  4. NO ONE YES MAN (ID: NOONEYESMAN.MYUKKE.0)
+     难度: 7.0/10.9/15.5/0
+  5. 望影の方舟Six (ID: 望影の方舟Six.SeURa.0)
+     难度: 6.5/11.9/15.9/0
+  6. Igallta (ID: Igallta.SeURa.0)
+     难度: 7.5/12.2/16.1/17.4
+
+============================================================
+📁 章节代码: MainStory7
+📌 标题: \ChapterMainStory7Title
+📌 副标题: \ChapterMainStory7SubTitle
+🖼️ 封面: Chapter 7
+🎵 包含 6 首歌曲:
+  1. Clock Paradox (ID: ClockParadox.WyvernP.0)
+     难度: 2.0/6.0/12.5/0
+  2. Chronologika (ID: Chronologika.Hundotte.0)
+     难度: 3.5/9.8/13.9/0
+  3. Nick of Time (ID: NickofTime.P4koo.0)
+     难度: 6.0/9.3/14.7/0
+  4. Chronomia (ID: Chronomia.Lime.0)
+     难度: 4.5/11.1/15.4/0
+  5. Chronos Collapse - La Campanella (ID: ChronosCollapseLaCampanella.SunsetRay.0)
+     难度: 4.5/12.5/16.3/0
+  6. Rrhar'il (ID: Rrharil.TeamGrimoire.0)
+     难度: 7.0/12.7/16.1/17.6
+
+============================================================
+📁 章节代码: MainStory8
+📌 标题: \ChapterMainStory8Title
+📌 副标题: \ChapterMainStory8SubTitle
+🖼️ 封面: Chapter 8
+🎵 包含 6 首歌曲:
+  1. Crave Wave (ID: CraveWave.LandRoot.0)
+     难度: 2.5/8.0/13.7/0
+  2. The Chariot ~REVIIVAL~ (ID: TheChariotREVIIVAL.Attoclef.0)
+     难度: 5.0/9.0/14.0/0
+  3. Luminescence (ID: Luminescence.米虾Fomiki初云CLoudie.0)
+     难度: 5.5/11.0/14.5/0
+  4. Retribution (ID: Retribution.nmyKryexe.0)
+     难度: 6.0/11.6/16.2/0
+  5. DESTRUCTION 3,2,1 (ID: DESTRUCTION321.Normal1zervsBrokenNerdz.0)
+     难度: 8.5/13.1/16.3/17.3
+  6. Distorted Fate (ID: DistortedFate.Sakuzyo.0)
+     难度: 8.1/13.5/16.3/17.4
+
+============================================================
+📁 章节代码: SideStory1
+📌 标题: \ChapterSideStory1Title
+📌 副标题: \ChapterSideStory1SubTitle
+🖼️ 封面: Side story 1
+🎵 包含 5 首歌曲:
+  1. Ποσειδών (ID: Poseidon.1112vsStar.0)
+     难度: 6.0/8.8/12.8/16.2
+  2. WATER (ID: WATER.A39沙包P.0)
+     难度: 4.5/9.4/13.6/0
+  3. Miracle Forest (VIP Mix) (ID: MiracleForestVIPMix.Rinthlive.0)
+     难度: 3.0/7.5/13.1/0
+  4. MOBILYS (ID: MOBILYS.Dachs.0)
+     难度: 5.5/9.3/14.3/0
+  5. Lyrith -迷宮リリス- (ID: Lyrith迷宮リリス.ユメミド.0)
+     难度: 5.0/11.1/16.1/16.5/15.9
+
+============================================================
+📁 章节代码: SideStory2
+📌 标题: \ChapterSideStory2Title
+📌 副标题: \ChapterSideStory2SubTitle
+🖼️ 封面: Side story 2
+🎵 包含 6 首歌曲:
+  1. Demiurge (ID: Demiurge.Rabpit.0)
+     难度: 1.5/7.5/11.8/0
+  2. Demonkin (ID: Demonkin.ForgedReigns.0)
+     难度: 4.5/9.2/13.8/0
+  3. Re_Nascence (Psystyle Ver.)  (ID: Re_NascencePsystyleVer.Rinth_live.0)
+     难度: 5.5/11.7/14.4/0
+  4. Ark (ID: Ark.kanoryo.0)
+     难度: 3.5/9.5/15.0/16.5
+  5. After Dawn (ID: AfterDawn.S9ryne.0)
+     难度: 3.0/10.4/15.3/0
+  6. INFiNiTE ENERZY -Overdoze- (ID: INFiNiTEENERZYOverdoze.RekuMochizuki.0)
+     难度: 6.5/12.3/14.8/16.8
+
+============================================================
+📁 章节代码: SideStory3
+📌 标题: \ChapterSideStory3Title
+📌 副标题: \ChapterSideStory3SubTitle
+🖼️ 封面: Side story 3
+🎵 包含 5 首歌曲:
+  1. Khalid (ID: Khalid.Dolphin.0)
+     难度: 4.0/8.2/13.1/0
+  2. Quantum Hyperspace (ID: QuantumHyperspace.D_AAN.0)
+     难度: 6.0/11.2/15.0/0
+  3. Freaky Undulations ~Noble Knights of Tune~ (ID: FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0)
+     难度: 7.0/10.9/15.3/0
+  4. PANIC PARADISE (ID: PANICPARADISE.DJSHIONY.0)
+     难度: 6.5/11.5/15.4/16.5
+  5. Re：End of a Dream (ID: ReEndofaDream.umavsモリモリあつし.0)
+     难度: 7.5/13.0/15.9/16.9
+
+============================================================
+📁 章节代码: SideStory4
+📌 标题: \ChapterSideStory4Title
+📌 副标题: \ChapterSideStory4SubTitle
+🖼️ 封面: Side story 4
+🎵 包含 6 首歌曲:
+  1. 心の記憶 (ID: 心の記憶.A39沙包P.0)
+     难度: 3.5/9.1/13.3/0
+  2. Spotlight (ID: Spotlight.Ardolf.0)
+     难度: 4.5/9.9/14.4/0
+  3. NightTheater (ID: NightTheater.わかどり.0)
+     难度: 4.0/10.6/14.3/0
+  4. Ramification (ID: Ramification.rareguyReina.0)
+     难度: 5.0/10.4/14.8/0
+  5. Der Richter (ID: DerRichter.Ωμεγα.0)
+     难度: 5.5/11.4/15.6/16.9
+  6. ATHAZA (ID: ATHAZA.LeaF.0)
+     难度: 8.6/12.9/15.7/16.6
+
+============================================================
+📁 章节代码: Cytus2
+📌 标题: \ChapterCytus2Title
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: CYTUS II
+🎵 包含 6 首歌曲:
+  1. The Whole Rest (ID: TheWholeRest.KIVΛ.0)
+     难度: 5.0/9.6/13.6/0
+  2. Cristalisia (ID: Cristalisia.onoken.0)
+     难度: 4.0/10.4/14.4/0
+  3. Hydra (ID: Hydra.JamesLandinoXAkiraComplex.0)
+     难度: 6.0/11.6/15.4/17.1
+  4. Alb (ID: Alb.Avans.0)
+     难度: 3.5/8.9/14.7/0
+  5. Incyde (ID: Incyde.YbeLL.0)
+     难度: 7.0/12.1/16.2/0
+  6. 彩 (ID: 彩.MisoilePunch.0)
+     难度: 6.0/12.5/16.4/0
+
+============================================================
+📁 章节代码: Liminality
+📌 标题: \ChapterLiminalityTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: Liminality
+🎵 包含 3 首歌曲:
+  1. Xep+ion (ID: Xepion.Acotto.0)
+     难度: 2.5/9.8/14.8/0
+  2. Archidoxen (ID: Archidoxen.Se_IRA.0)
+     难度: 4.0/10.0/15.6/0
+  3. 百鬼֎夜行 (ID: 百鬼夜行.SaladSavior.0)
+     难度: 4.5/10.1/15.8/0
+
+============================================================
+📁 章节代码: Maimai
+📌 标题: \ChapterMaimaiTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: maimai
+🎵 包含 4 首歌曲:
+  1. アンビバレンス (ID: アンビバレンス.すりぃ相沢.0)
+     难度: 4.0/8.7/14.1/0
+  2. Komplexe (ID: Komplexe.雄之助featSennzai.0)
+     难度: 3.5/9.6/14.3/0
+  3. sølips (ID: slips.rintarosoma.0)
+     难度: 7.5/12.8/16.0/16.8
+  4. QZKago Requiem (ID: QZKagoRequiem.tpazolite.0)
+     难度: 7.0/13.3/16.3/17.4
+
+============================================================
+📁 章节代码: Ongeki
+📌 标题: \ChapterOngekiTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: オンゲキ
+🎵 包含 3 首歌曲:
+  1. Radiance (ID: Radiance.Nhato.0)
+     难度: 3.5/11.9/14.0/15.6
+  2. Diamond Dust (ID: DiamondDust.MasahiroGodspeedAoki.0)
+     难度: 5.0/10.8/15.3/16.7
+  3. Stardust:RAY (ID: StardustRAY.kanonevsBlackY.0)
+     难度: 6.0/12.3/16.5/17.2
+
+============================================================
+📁 章节代码: ImmaculeeSekai
+📌 标题: \ChapterImmaculeeSekaiTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: Immaculée Sekai
+🎵 包含 3 首歌曲:
+  1. Aphrodite's Child (short ver.) (ID: AphroditesChildshortver.RUQOA.0)
+     难度: 3.5/8.1/13.3/0
+  2. DevIAtiOn (short ver.) (ID: DevIAtiOnshortver.polysha.0)
+     难度: 5.0/11.1/15.7/0
+  3. NO x (ID: NOx.Juggernaut.0)
+     难度: 4.5/10.3/16.1/0
+
+============================================================
+📁 章节代码: EGTS
+📌 标题: \ChapterEGTSTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: EGTS
+🎵 包含 6 首歌曲:
+  1. Silence is Golden, Speech is Golden (ID: SilenceisGoldenSpeechisGolden.NIWASHI.0)
+     难度: 5.0/9.3/15.6/0
+  2. Fractured Angel (ID: FracturedAngel.DJRaisei.0)
+     难度: 4.0/10.9/16.3/0
+  3. Resolver (ID: Resolver.Gomadare.0)
+     难度: 3.0/8.4/14.4/0
+  4. Luminous Entities Lost Heart (ID: LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0)
+     难度: 5.0/10.7/15.2/0
+  5. KIZUNA Resolution (ID: KIZUNAResolution.TAG.0)
+     难度: 8.0/13.4/16.4/0
+  6. AbsoluTe disoRdeR (ID: AbsoluTedisoRdeR.AcuteDisarray.0)
+     难度: 6.5/12.4/16.3/17.2
+
+============================================================
+📁 章节代码: RhythmMaster
+📌 标题: \ChapterRhythmMasterTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: 节奏大师
+🎵 包含 5 首歌曲:
+  1. 君往何处 (Quo Vadis) (ID: 君往何处QuoVadis.M2U.0)
+     难度: 4.0/8.6/14.1/0
+  2. 暗夜苏醒 (REANIMATE) (ID: 暗夜苏醒REANIMATE.Warak.0)
+     难度: 5.0/12.8/15.3/0
+  3. 黄金之城 (GOLD TOWN) (ID: 黄金之城GOLDTOWN.Memme.0)
+     难度: 2.0/10.2/14.7/0
+  4. 双重间谍 (Double Agent) (ID: 双重间谍DoubleAgent.WAVAV.0)
+     难度: 4.5/11.8/15.7/0
+  5. 幻影鬼魅 (PLEASE) (ID: 幻影鬼魅PLEASE.R300K.0)
+     难度: 5.5/9.6/15.2/17.0
+
+============================================================
+📁 章节代码: TAKUMI3
+📌 标题: \ChapterTAKUMI3Title
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: TAKUMI³
+🎵 包含 3 首歌曲:
+  1. Cuvism³ (ID: Cuvism.Fl00tvsHalv.0)
+     难度: 3.0/12.2/13.9/16.7
+  2. iL-Artifact (ID: iLArtifact.Link0.0)
+     难度: 5.5/10.5/15.7/0
+  3. a truth seeker -Communication with Utopia will be lost- (ID: atruthseekerCommunicationwithUtopiawillbelost.kuro.0)
+     难度: 6.5/12.4/15.8/0
+
+============================================================
+📁 章节代码: SHINOBISLASH
+📌 标题: \ChapterSHINOBISLASHTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: SHINOBI SLASH
+🎵 包含 3 首歌曲:
+  1. 幽世桔梗 (ID: 幽世桔梗.Capchiifeatまるもこ.0)
+     难度: 4.5/10.1/14.8/0
+  2. 千紫万紅 (ID: 千紫万紅.r0yvsWABI.0)
+     难度: 4.5/12.1/15.5/0
+  3. 明鏡烈火 (ID: 明鏡烈火.MUEvsRekuMochizuki.0)
+     难度: 6.0/11.1/15.9/0
+
+============================================================
+📁 章节代码: ParadigmReboot
+📌 标题: \ChapterParadigmRebootTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: Paradigm: Reboot
+🎵 包含 4 首歌曲:
+  1. 零號車輛 (ID: 零號車輛.seatrus.0)
+     难度: 7.5/12.1/16.2/0
+  2. Xenolith (ID: Xenolith.Tatsh.0)
+     难度: 4.0/8.5/14.2/0
+  3. Artificial Existence (ID: ArtificialExistence.JunKuroda.0)
+     难度: 3.5/9.3/14.7/0
+  4. Indelible Scar (ID: IndelibleScar.Noah.0)
+     难度: 7.0/11.5/15.3/16.5
+
+============================================================
+📁 章节代码: CHUNITHM
+📌 标题: \ChapterCHUNITHMTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: CHUNITHM
+🎵 包含 3 首歌曲:
+  1. 月詠に鳴る (ID: 月詠に鳴る.Feryquitousfeat藍月なくる.0)
+     难度: 6.0/11.4/14.5/15.7
+  2. TECHNOPOLIS 2085 (ID: TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0)
+     难度: 5.0/10.2/14.1/15.9
+  3. 祈 -我ら神祖と共に歩む者なり- (ID: 祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0)
+     难度: 7.0/13.2/16.4/17.3
+
+============================================================
+📁 章节代码: Rotaeno
+📌 标题: \ChapterRotaenoTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: Rotaeno
+🎵 包含 6 首歌曲:
+  1. Journey with You (ID: JourneywithYou.Iris.0)
+     难度: 5.0/10.0/13.7/0
+  2. Secret Illumination (ID: SecretIllumination.Yooh.0)
+     难度: 5.0/10.2/14.7/0
+  3. Inverted World (ID: InvertedWorld.ARForest.0)
+     难度: 5.5/11.2/15.5/0
+  4. ストレイソウル・アラウンド (ID: ストレイソウルアラウンド.みーに.0)
+     难度: 6.0/9.8/14.3/0
+  5. Manifold Hypothesis (ID: ManifoldHypothesis.cybermisofeattigerlily.0)
+     难度: 4.0/9.1/14.6/0
+  6. K.Moe (VIP) (ID: KMoeVIP.ZxNX.0)
+     难度: 3.0/8.4/15.9/0
+
+============================================================
+📁 章节代码: Camellia
+📌 标题: \ChapterCamelliaTitle
+📌 副标题: \ChapterCamelliaSubTitle
+🖼️ 封面: かめりあ
+🎵 包含 5 首歌曲:
+  1. S.A.T.E.L.L.I.T.E. (ID: SATELLITE.かめりあ.0)
+     难度: 5.0/9.9/14.3/16.2
+  2. Dance with Silence (ID: DancewithSilence.かめりあ.0)
+     难度: 7.0/10.9/15.2/0
+  3. Labyrinth in Kowloon: Walled World (ID: LabyrinthinKowloonWalledWorld.かめりあ.0)
+     难度: 6.0/11.4/15.6/0
+  4. Compute It With Some Devilish Alcoholic Steampunk Engines (ID: ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0)
+     难度: 5.5/10.6/15.8/0
+  5. +ERABY+E CONNEC+10N (ID: ERABYECONNEC10N.かめりあ.0)
+     难度: 5.5/11.6/16.3/17.3
+
+============================================================
+📁 章节代码: OverRapid
+📌 标题: \ChapterOverRapidTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: OverRapid
+🎵 包含 6 首歌曲:
+  1. 神話 (ID: 神話.PicaM2U.0)
+     难度: 4.0/8.7/13.5/0
+  2. El último baile (ID: Elúltimobaile.Θ.0)
+     难度: 4.5/9.5/14.1/0
+  3. Trojan (ID: Trojan.litmus.0)
+     难度: 5.5/10.8/15.0/0
+  4. Temporal Shifting (ID: TemporalShifting.LureRabbitVC.0)
+     难度: 4.0/11.5/15.2/0
+  5. Ad astra per aspera (ID: Adastraperaspera.RabbitHouse.0)
+     难度: 6.5/12.1/16.3/0
+  6. A journey to the moonlight (ID: Ajourneytothemoonlight.Yesod.0)
+     难度: 4.5/10.7/14.5/0
+
+============================================================
+📁 章节代码: TEA12
+📌 标题: \ChapterTEA12Title
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: 茶鸣拾贰律
+🎵 包含 4 首歌曲:
+  1. 盏茗 (ID: 盏茗.茶鸣拾贰律.0)
+     难度: 1.5/4.5/13.4/0
+  2. 青芽 (ID: 青芽.茶鸣拾贰律.0)
+     难度: 5.0/10.4/15.2/0
+  3. 瓷岁 (ID: 瓷岁.茶鸣拾贰律.0)
+     难度: 2.0/6.5/7.0/0
+  4. Feast远东之宴 (ID: Feast远东之宴.茶鸣拾贰律.0)
+     难度: 6.5/12.1/15.5/0
+
+============================================================
+📁 章节代码: JMT
+📌 标题: \ChapterJMTTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: 姜米條
+🎵 包含 3 首歌曲:
+  1. Shadow (ID: Shadow.SumaiLightvs姜米條.0)
+     难度: 6.5/10.5/14.6/16.2
+  2. 心之所向 (ID: 心之所向.姜米條.0)
+     难度: 4.0/8.2/13.8/0
+  3. inferior (ID: inferior.姜米條.0)
+     难度: 7.0/7.5/14.6/0
+
+============================================================
+📁 章节代码: Lanota
+📌 标题: \ChapterLanotaTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: Lanota
+🎵 包含 5 首歌曲:
+  1. Apocalypse (ID: Apocalypse.アリスシャッハと魔法の楽団.0)
+     难度: 4.0/8.6/13.5/0
+  2. Protoflicker (ID: Protoflicker.Silentroom.0)
+     难度: 3.5/9.7/15.4/0
+  3. Horizon Blue (ID: HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0)
+     难度: 6.5/11.6/15.7/0
+  4. You are the Miserable (ID: YouaretheMiserable.tpazolite.0)
+     难度: 6.0/11.7/14.1/15.8
+  5. Stasis (ID: Stasis.Maozon.0)
+     难度: 5.0/10.1/15.3/16.7
+
+============================================================
+📁 章节代码: KALPA
+📌 标题: \ChapterKALPATitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: KALPA
+🎵 包含 8 首歌曲:
+  1. Time to Night Sky (feat. Lee Yu Jin) (ID: TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0)
+     难度: 3.0/10.1/13.6/0
+  2. HAZARD (ID: HAZARD.Limpid.0)
+     难度: 4.5/11.0/14.8/0
+  3. Another Me (ID: AnotherMe.DAAN.0)
+     难度: 5.0/9.8/15.6/0
+  4. Don't Never Around (ID: DontNeverAround.HAMA.0)
+     难度: 5.0/11.3/15.5/0
+  5. RESSiSTANCE (ID: RESSiSTANCE.ぐるたみん.0)
+     难度: 6.5/11.2/16.1/0
+  6. Flutter Echo (ID: FlutterEcho.Cansol.0)
+     难度: 3.5/9.8/14.9/0
+  7. Re：birth (ID: Rebirth.ああああ.0)
+     难度: 6.0/12.0/15.4/0
+  8. Avataar ~Reincarnation of Kalpa~ (ID: AvataarReincarnationofKalpa.ScarletteakaCrYmson.0)
+     难度: 2.0/8.2/13.4/16.6
+
+============================================================
+📁 章节代码: MUSEDASH
+📌 标题: \ChapterMuseDashTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: Muse Dash
+🎵 包含 3 首歌曲:
+  1. XING (ID: XING.ginkiha.0)
+     难度: 5.5/9.9/13.9/0
+  2. Final Step! (ID: FinalStep.Lime.0)
+     难度: 5.5/11.0/14.1/0
+  3. Cthugha (ID: Cthugha.USAO.0)
+     难度: 6.0/10.4/16.0/16.1
+
+============================================================
+📁 章节代码: WAVEAT
+📌 标题: \ChapterWaveatTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: WAVEAT
+🎵 包含 4 首歌曲:
+  1. Initialize (ID: Initialize.iF.0)
+     难度: 2.5/7.0/11.6/0
+  2. 桜樹街道 (ID: 桜樹街道.kozatosnow.0)
+     难度: 3.5/8.1/13.0/0
+  3. Get Ready!!  (ID: GetReady.iF.0)
+     难度: 6.0/10.7/13.8/0
+  4. volcanic (ID: volcanic.DETROakaルゼ.0)
+     难度: 7.5/12.1/14.7/16.6
+
+============================================================
+📁 章节代码: Good
+📌 标题: \ChapterGoodTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: GOOD
+🎵 包含 5 首歌曲:
+  1. GOODTEK (ID: GOODTEK.EBIMAYO.0)
+     难度: 5.0/10.0/14.3/0
+  2. GOODBOUNCE (ID: GOODBOUNCE.EBIMAYO.0)
+     难度: 7.5/11.9/14.5/0
+  3. GOODWORLD (ID: GOODWORLD.EBIMAYO.0)
+     难度: 3.0/11.4/14.9/0
+  4. GOODFORTUNE (ID: GOODFORTUNE.EBIMAYO.0)
+     难度: 7.5/8.7/15.7/0
+  5. GOODRAGE (ID: GOODRAGE.EBIMAYO.0)
+     难度: 5.0/8.5/16.0/0
+
+============================================================
+📁 章节代码: HyuN
+📌 标题: \ChapterHyunTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: HyuN
+🎵 包含 3 首歌曲:
+  1. Infinity Heaven (ID: InfinityHeaven.HyuN.0)
+     难度: 3.0/8.4/13.9/0
+  2. Disorder (ID: Disorder.HyuNfeatYURI.0)
+     难度: 6.0/10.3/14.8/0
+  3. CROSS†SOUL (ID: CROSSSOUL.HyuNfeatSyepias.0)
+     难度: 7.5/12.6/16.4/0
+
+============================================================
+📁 章节代码: RST
+📌 标题: \ChapterRSTTitle
+📌 副标题: \ChapterExtraSubTitle
+🖼️ 封面: Rising Sun Traxx
+🎵 包含 5 首歌曲:
+  1. Another Me (ID: AnotherMe.NeutralMoon.0)
+     难度: 5.5/9.3/13.6/0
+  2. mechanted (ID: mechanted.rareguy.0)
+     难度: 3.0/11.3/14.9/0
+  3. life flashes before weeb eyes (ID: lifeflashesbeforeweebeyes.BilliumMoto.0)
+     难度: 6.5/11.9/14.9/0
+  4. Break Through The Barrier (ID: BreakThroughTheBarrier.lixound.0)
+     难度: 5.5/9.5/14.5/0/15.0
+  5. Chronostasis (ID: Chronostasis.黒皇帝.0)
+     难度: 6.0/10.7/16.0/0
+
